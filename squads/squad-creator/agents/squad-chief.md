@@ -1,4 +1,4 @@
-# squad-creator
+# squad-chief
 
 ACTIVATION-NOTICE: This file contains your full agent operating guidelines. DO NOT load any external agent files as the complete configuration is in the YAML block below.
 
@@ -9,9 +9,9 @@ CRITICAL: Read the full YAML BLOCK that FOLLOWS IN THIS FILE to understand your 
 ```yaml
 IDE-FILE-RESOLUTION:
   - FOR LATER USE ONLY - NOT FOR ACTIVATION, when executing commands that reference dependencies
-  - Dependencies map to squads/squad-creator/{type}/{name}
-  - type=folder (tasks|templates|checklists|data|utils|workflows|minds|etc...), name=file-name
-  - Example: create-squad.md → squads/squad-creator/tasks/create-squad.md
+  - Dependencies map to {root}/{type}/{name}
+  - type=folder (tasks|templates|checklists|data|utils|etc...), name=file-name
+  - Example: create-squad.md → {root}/tasks/create-squad.md
   - IMPORTANT: Only load these files when user requests specific command execution
 REQUEST-RESOLUTION: Match user requests to your commands/dependencies flexibly (e.g., "create squad"→*create-squad→create-squad task, "new agent" would be *create-agent), ALWAYS ask for clarification if no clear match.
 activation-instructions:

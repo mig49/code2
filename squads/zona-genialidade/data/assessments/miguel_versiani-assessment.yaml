@@ -1,0 +1,69 @@
+assessment_result:
+  metadata:
+    id: "assessment_miguel_versiani_2026-02-19"
+    name: "Miguel Versiani"
+    slug: "miguel_versiani"
+    date: "2026-02-19T00:00:00.000Z"
+    version: "1.0.0"
+    completeness_score: 100
+    previous_assessments: "Fez testes anteriores mas nao lembra resultados"
+
+  section_1_context:
+    nome: "Miguel Versiani"
+    area_atuacao: "Gestao / Lideranca"
+    tempo_experiencia: "3 a 5 anos"
+    descricao_dia_a_dia: "Gestao de equipes e operacoes - lidero times, cuido de processos e entregas"
+    se_dinheiro_nao_importasse: "Ensinar e mentorar pessoas - compartilhar conhecimento e desenvolver outros"
+    espectro_introextro: "Mais introvertido que extrovertido - gosto de pessoas mas preciso de tempo sozinho"
+    espectro_analitico_intuitivo: "Mais analitico que intuitivo - prefiro dados mas confio no instinto quando preciso"
+    espectro_estrutura_flex: "Mais flexibilidade / Flexibilidade total - estrutura demais me sufoca"
+
+  section_2_activities:
+    atividades_drenam:
+      - "Tarefas administrativas e burocraticas"
+      - "Reunioes longas sem pauta definida"
+      - "Trabalho repetitivo e operacional"
+    atividades_energizam:
+      - "Ensinar e mentorar pessoas"
+      - "Criar coisas novas (produtos, conteudo, arte)"
+      - "Planejar estrategias e visao de longo prazo"
+    outros_agradecem_por: "Explicar algo complexo de forma simples"
+    perde_tempo_em: "Pesquisando, aprendendo coisas novas"
+    como_inicia_projetos: "Pesquisar bastante antes de dar o primeiro passo"
+    como_resolve_problemas: "Parar e analisar todas as opcoes antes de agir"
+    manual_vs_conceitual: "Mais abstrato / Abstrato total - modelos mentais, frameworks, estrategias"
+    nivel_detalhe: "Foca no resultado geral - detalhes podem ser ajustados depois"
+    estilo_delegacao: "Muita dificuldade - prefiro fazer eu mesmo"
+    ritmo_trabalho: "Explosoes intensas seguidas de descanso (sprint/recovery)"
+    inovacao_vs_otimizacao: "Conectar coisas existentes de formas novas"
+    foco_vs_multitask: "Uma coisa so com foco total por longos periodos"
+
+  section_3_talents:
+    padrao_sucesso: "Em todos estava analisando e resolvendo problemas complexos"
+    como_outros_descrevem: "Confiavel e consistente - sempre entrega o que promete"
+    facilidade_natural: "Organizar informacoes complexas em estruturas simples"
+    dominio_strengths: "CONSTRUTOR DE RELACIONAMENTOS - crio harmonia e conecto pessoas"
+    frustracao_recorrente: "Falta de visao estrategica nas decisoes"
+    estilo_comunicacao: "Diplomatico e cuidadoso - considero todos os lados"
+    estilo_aprendizado: "Assiste videos e tenta replicar"
+    reacao_feedback: "Analisa friamente e extrai o que e util"
+    contribuicao_mundo: "Ensinar e capacitar pessoas a se desenvolverem"
+    competencia_vs_genialidade: "Sim"
+    competencia_vs_genialidade_detalhe: "Vendas e negociacao - faz bem mas nao gosta"
+
+  section_4_business:
+    modelo_preferido: "Prestar servicos de alto valor (consultoria, mentoria, done-for-you)"
+    tolerancia_risco: "Aceito riscos calculados com rede de protecao"
+    solo_vs_time: "Totalmente sozinho - mais produtivo sem ninguem por perto"
+    timing_mercado: "Entrar cedo mas com algo ja validado (fast follower)"
+    fonte_receita_ideal: "Vender servicos especializados (consultoria, agencia, freelance)"
+    relacao_preco: "Tenho dificuldade - sempre acho que deveria cobrar menos"
+    escala_vs_profundidade: "Poucos clientes com muita profundidade (high-touch)"
+    perfil_wealth_dynamics: "APOIADOR - braco direito perfeito, executo com excelencia"
+
+  section_5_vision:
+    resultado_90_dias: "Ainda nao sei - preciso de clareza"
+    meta_receita_mensal: "R$5.000 a R$15.000/mes"
+    maior_bloqueio: "Falta de tempo"
+    tempo_disponivel: "5 a 10 horas/semana"
+    nivel_ai: "Intermediario - uso AI no dia a dia para varios fluxos"

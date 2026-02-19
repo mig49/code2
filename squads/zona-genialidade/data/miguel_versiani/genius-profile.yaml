@@ -1,0 +1,340 @@
+genius_profile:
+  metadata:
+    id: "profile_miguel_versiani_2026-02-19"
+    name: "Miguel Versiani"
+    slug: "miguel_versiani"
+    date: "2026-02-19"
+    assessment_id: "assessment_miguel_versiani_2026-02-19"
+    version: "1.0.0"
+
+  # ============================================================
+  # TIER 0: GAY HENDRICKS - Zone of Genius Model
+  # ============================================================
+  hendricks:
+    confidence: 0.82
+    current_zone: "Zona de Excelencia"
+    zone_distribution:
+      incompetencia: 5
+      competencia: 15
+      excelencia: 55
+      genialidade: 25
+    zone_analysis:
+      incompetencia:
+        activities: ["Tarefas administrativas e burocraticas"]
+        evidence: "Drena energia, nao e seu forte natural"
+      competencia:
+        activities: ["Trabalho repetitivo/operacional", "Reunioes sem pauta"]
+        evidence: "Consegue fazer mas sem distincao"
+      excelencia:
+        activities: ["Gestao de equipes", "Vendas e negociacao", "Operacoes"]
+        evidence: "CRITICO - Faz bem, outros elogiam, mas NAO gosta. Especialmente vendas/negociacao confessado como 'faz bem mas nao gosta'. Gestao de equipes e area atual mas nao e paixao."
+      genialidade:
+        activities: ["Ensinar e mentorar", "Simplificar complexidade", "Pesquisar e aprender", "Conectar ideias de formas novas"]
+        evidence: "Perde nocao do tempo pesquisando. Se dinheiro nao importasse, ensinaria. Facilidade natural em organizar informacoes complexas em estruturas simples."
+    upper_limit_problem:
+      type: "Tipo 4 - Crime do Brilho"
+      description: "Dificuldade em cobrar caro (sempre acha que deveria cobrar menos). Dificuldade em delegar (prefere fazer sozinho). Trabalha sozinho por preferencia. Combinacao sugere desconforto em ocupar espaco e ser visto como autoridade."
+      evidence:
+        - "Dificuldade em cobrar caro pelo trabalho"
+        - "Muita dificuldade em delegar"
+        - "Prefere trabalhar totalmente sozinho"
+        - "Comunicacao diplomatica e cuidadosa (evita confronto)"
+      severity: "moderado"
+    big_leap_path:
+      from: "Gestao/Operacoes (Excelencia)"
+      to: "Mentoria/Ensino + Curadoria de conhecimento (Genialidade)"
+      key_shift: "Parar de executar gestao para outros e comecar a ensinar outros a gerir - transformar experiencia em framework ensinavel"
+
+  # ============================================================
+  # TIER 1: DON CLIFTON - CliftonStrengths
+  # ============================================================
+  clifton:
+    confidence: 0.75
+    primary_domain: "Relationship Building"
+    secondary_domain: "Strategic Thinking"
+    estimated_top_5:
+      - theme: "Harmony"
+        domain: "Relationship Building"
+        evidence: "Comunicacao diplomatica, considera todos os lados, constroi harmonia"
+        strength: 0.85
+      - theme: "Developer"
+        domain: "Relationship Building"
+        evidence: "Paixao por ensinar e capacitar, contribuicao ao mundo = desenvolver outros"
+        strength: 0.90
+      - theme: "Learner"
+        domain: "Strategic Thinking"
+        evidence: "Perde nocao do tempo pesquisando/aprendendo, pesquisa antes de agir"
+        strength: 0.88
+      - theme: "Analytical"
+        domain: "Strategic Thinking"
+        evidence: "Mais analitico, para e analisa todas opcoes, resolve problemas complexos"
+        strength: 0.78
+      - theme: "Connectedness"
+        domain: "Relationship Building"
+        evidence: "Conecta coisas de formas novas, organiza complexidade em estruturas"
+        strength: 0.72
+    shadow_talents:
+      - theme: "Activator"
+        status: "suppressed"
+        evidence: "Prefere pesquisar bastante antes - Quick Start baixo indica que iniciativa rapida esta sendo suprimida"
+    domain_distribution:
+      executing: 10
+      influencing: 10
+      relationship_building: 50
+      strategic_thinking: 30
+
+  # ============================================================
+  # TIER 1: DAN SULLIVAN - Unique Ability
+  # ============================================================
+  sullivan:
+    confidence: 0.80
+    unique_ability_statement: "Miguel transforma informacoes complexas em frameworks simples e ensinaveis, conectando conhecimentos de areas diferentes para criar caminhos claros de desenvolvimento para outros."
+    unique_ability_components:
+      superior_skill: "Organizar informacoes complexas em estruturas simples"
+      passion: "Ensinar e mentorar pessoas"
+      energy: "Pesquisar, aprender e conectar ideias novas"
+      continuous_improvement: "Naturalmente melhora na capacidade de simplificar (evidencia: e o que outros mais agradecem)"
+    zone_mapping:
+      unique_ability:
+        activities: ["Ensinar/mentorar", "Simplificar complexidade", "Criar frameworks", "Pesquisar e sintetizar"]
+        time_current: 25
+        time_ideal: 70
+      excellent:
+        activities: ["Gestao de equipes", "Vendas/negociacao", "Operacoes"]
+        time_current: 55
+        time_ideal: 10
+      competent:
+        activities: ["Administrativo", "Reunioes operacionais"]
+        time_current: 15
+        time_ideal: 5
+      incompetent:
+        activities: ["Burocracia"]
+        time_current: 5
+        time_ideal: 0
+    who_not_how:
+      readiness: "baixa"
+      blocker: "Dificuldade extrema em delegar - precisa desenvolver confianca em processos e pessoas"
+      delegation_priority:
+        - "Tarefas administrativas → VA/assistente (imediato)"
+        - "Vendas e prospeccao → parceiro comercial ou automacao"
+        - "Gestao operacional → lider de operacoes ou systems manager"
+    ten_x_vs_two_x:
+      current: "2x thinking - focado em fazer mais do mesmo melhor"
+      shift_needed: "Parar de vender tempo (gestao) e criar produtos de conhecimento (frameworks, cursos, mentorias estruturadas)"
+
+  # ============================================================
+  # TIER 1: ROGER HAMILTON - Wealth Dynamics
+  # ============================================================
+  hamilton:
+    confidence: 0.78
+    primary_profile: "Supporter"
+    secondary_profile: "Accumulator"
+    profile_analysis:
+      supporter:
+        score: 0.72
+        evidence:
+          - "Auto-identificacao direta como Apoiador"
+          - "Construtor de relacionamentos no time"
+          - "Comunicacao diplomatica e cuidadosa"
+          - "Faz outros brilharem (excelencia em gestao)"
+        natural_strengths: ["People management", "Building trust", "Executing vision", "Connecting dots"]
+        growth_edge: "Precisa encontrar o 'Creator' certo para apoiar - ou se tornar o Creator do proprio framework"
+      accumulator:
+        score: 0.55
+        evidence:
+          - "Risco calculado com rede de protecao"
+          - "Pesquisa profunda antes de agir"
+          - "Introvertido, prefere trabalhar sozinho"
+          - "Foco e constancia"
+    wealth_spectrum:
+      current_level: "Player (Nivel 2)"
+      evidence: "Tem renda mas busca primeiro negocio proprio. Meta de R$5k-15k indica transicao de empregado para autonomo."
+      next_level: "Performer (Nivel 3)"
+      path: "Criar oferta de servico especializado baseado em Unique Ability"
+    flow_recommendation:
+      natural_flow: "Supporter precisa de um ecossistema/comunidade para prosperar"
+      monetization_path: "Mentoria/Consultoria high-touch → Comunidade → Framework escalavel"
+      squad_alignment: "Squads que envolvem ensino, mentoria, curadoria de conhecimento"
+
+  # ============================================================
+  # TIER 1: ALEX HORMOZI - Value Equation
+  # ============================================================
+  hormozi:
+    confidence: 0.73
+    value_equation:
+      dream_outcome: 7
+      dream_outcome_rationale: "Mentor que simplifica complexidade e desenvolve pessoas = alto valor percebido. Transformacao genuina."
+      perceived_likelihood: 5
+      perceived_likelihood_rationale: "Falta portfolio publico, prova social, e historico documentado. Confiavel mas sem evidencias publicadas."
+      time_delay: 4
+      time_delay_rationale: "Modelo high-touch = resultados rapidos para o cliente (consultoria 1:1 acelera)"
+      effort_sacrifice: 5
+      effort_sacrifice_rationale: "Servico especializado exige engajamento do cliente. Nao e passivo."
+      score: 4.4
+      score_interpretation: "Oferta boa mas precisa de otimizacao - principalmente em prova social e reducao de esforco percebido"
+    grand_slam_offer_draft:
+      target_avatar: "Gestor/lider em transicao que quer estruturar conhecimento tacito em framework ensinavel e monetizavel"
+      core_offer: "Mentoria estrategica 1:1 para extrair e estruturar expertise em framework monetizavel"
+      bonus_1: "Framework de simplificacao (template para transformar complexidade em clareza)"
+      bonus_2: "Acesso a comunidade de mentores em transicao"
+      bonus_3: "Sessao de 'mapa de delegacao' para liberar tempo"
+      guarantee: "Se em 30 dias voce nao tiver seu framework documentado, devolvemos 100%"
+      price_range: "R$3.000 - R$5.000/mes por cliente (meta 3-5 clientes = R$9k-25k/mes)"
+    monetization_gaps:
+      critical:
+        - "Dificuldade em cobrar caro - Upper Limit Problem financeiro"
+        - "Falta de posicionamento publico como autoridade"
+      important:
+        - "Falta de prova social documentada (cases, depoimentos)"
+        - "Modelo solo limita escala - precisa de sistemas"
+      nice_to_have:
+        - "Funil de vendas automatizado"
+        - "Conteudo organico para atracao"
+    core_4_recommendation:
+      primary: "Warm Outreach"
+      rationale: "Supporter com rede de relacionamentos. Comece com quem ja conhece e confia em voce."
+      secondary: "Free Content"
+      rationale_secondary: "Talento natural de explicar coisas complexas = conteudo organico poderoso"
+      weekly_goals:
+        warm_outreach: "5 conversas/semana com contatos existentes"
+        free_content: "1 post/semana simplificando algo complexo da sua area"
+
+  # ============================================================
+  # TIER 2: KATHY KOLBE - 4 Action Modes
+  # ============================================================
+  kolbe:
+    confidence: 0.70
+    action_modes:
+      fact_finder:
+        score: 8
+        interpretation: "Pesquisador profundo - precisa entender antes de agir"
+        evidence: "Pesquisa bastante antes de comecar. Para e analisa todas opcoes. Perde tempo pesquisando/aprendendo."
+      follow_thru:
+        score: 4
+        interpretation: "Adaptavel - resiste a estrutura rigida, prefere flexibilidade"
+        evidence: "Prefere flexibilidade/flex total. Foca no resultado geral, nao nos detalhes."
+      quick_start:
+        score: 4
+        interpretation: "Moderado tendendo a estabilizador - valida antes de inovar"
+        evidence: "Fast follower, nao pioneiro. Pesquisa antes de executar. Riscos calculados."
+      implementor:
+        score: 3
+        interpretation: "Pensador abstrato - prefere conceitos, modelos, estrategias"
+        evidence: "Prefere trabalhar com coisas abstratas. Modelos mentais e frameworks."
+    kolbe_profile: "8-4-4-3"
+    natural_mo: "Pesquisador estrategico que opera no abstrato - coleta informacao profunda, conecta com flexibilidade, valida antes de inovar, trabalha no mundo das ideias"
+    conative_conflicts:
+      - conflict: "Fact Finder alto + Follow Thru baixo"
+        impact: "Pesquisa muito mas nao sistematiza o resultado - acumula conhecimento sem estruturar"
+        resolution: "Criar templates simples para capturar pesquisa (framework proprio de 'research → framework → ensino')"
+      - conflict: "Quick Start moderado + Dificuldade em delegar"
+        impact: "Nao inicia rapido E nao delega = gargalo pessoal"
+        resolution: "Usar o alto Fact Finder como forcaa: pesquisar modelos de delegacao, testar com tarefas pequenas"
+    execution_style_for_squad: "Ideal para squads que exigem pesquisa profunda, curadoria de conhecimento e frameworks. NAO ideal para squads de execucao rapida ou prototipagem fisica."
+    burnout_triggers:
+      - "Ser forcado a agir sem pesquisa previa"
+      - "Estrutura rigida e processos burocraticos"
+      - "Trabalho repetitivo e operacional"
+      - "Demandas de prototipagem fisica/tangivel"
+
+  # ============================================================
+  # TIER 2: SALLY HOGSHEAD - Fascination Advantage
+  # ============================================================
+  hogshead:
+    confidence: 0.75
+    primary_advantage: "Trust"
+    primary_evidence:
+      - "Outros descrevem como confiavel e consistente"
+      - "Entrega o que promete"
+      - "Comunicacao diplomatica"
+      - "Analisa feedback friamente (estabilidade)"
+    secondary_advantage: "Passion"
+    secondary_evidence:
+      - "Paixao por ensinar e desenvolver outros"
+      - "Energizado por mentoria"
+      - "Contribuicao ao mundo = capacitar pessoas"
+      - "Traduz complexidade com cuidado e empatia"
+    archetype:
+      name: "The Authentic"
+      combination: "Trust + Passion"
+      description: "Voce fascina pela combinacao rara de confiabilidade inabalavel com calor humano genuino. As pessoas confiam em voce porque voce e real — sem mascara, sem jogos. Sua presenca e ao mesmo tempo segura e inspiradora."
+      dormant_advantage: "Innovation"
+      dormant_evidence: "Prefere validar antes de inovar (fast follower). Quick Start moderado."
+    anthem_options:
+      - "Eu transformo complexidade em clareza atraves de mentoria confiavel"
+      - "Eu desenvolvo pessoas transformando conhecimento profundo em caminhos simples"
+      - "Eu conecto ideias diferentes para criar frameworks que capacitam outros"
+    voice_of_brand:
+      tone: "Calmo, profundo, confiavel, generoso com conhecimento"
+      avoid: "Hype, exagero, promessas agressivas, urgencia artificial"
+      channels_ideais:
+        - "Artigos longos e profundos (newsletter, blog)"
+        - "Videos explicativos (YouTube, Loom)"
+        - "Mentorias 1:1 e grupos pequenos"
+        - "Comunidades com interacao profunda"
+      channels_evitar:
+        - "TikTok / Reels rapidos (vai contra Mystique latente)"
+        - "Cold outreach agressivo (contradiz Trust)"
+        - "Eventos de massa com performance (contradiz introversao)"
+
+  # ============================================================
+  # SINTESE CRUZADA
+  # ============================================================
+  cross_synthesis:
+    convergences:
+      - id: "CONV-1"
+        insight: "ENSINO E MENTORIA como zona de genialidade"
+        frameworks_count: 6
+        frameworks: ["hendricks", "sullivan", "clifton", "hogshead", "hormozi", "hamilton"]
+        confidence: 0.92
+        evidence: "6 de 7 frameworks apontam para ensino/mentoria como atividade central. Hendricks (genialidade), Sullivan (Unique Ability), Clifton (Developer top), Hogshead (Passion), Hormozi (core offer), Hamilton (Supporter que ensina)"
+
+      - id: "CONV-2"
+        insight: "SIMPLIFICACAO DE COMPLEXIDADE como talento unico"
+        frameworks_count: 5
+        frameworks: ["sullivan", "clifton", "hendricks", "hogshead", "kolbe"]
+        confidence: 0.88
+        evidence: "Organizar informacoes complexas em estruturas simples aparece em Sullivan (UA), Clifton (Analytical+Connectedness), Hendricks (genialidade), Hogshead (anthem), Kolbe (Fact Finder alto + abstrato)"
+
+      - id: "CONV-3"
+        insight: "EXCELENCIA TRAP em gestao/vendas"
+        frameworks_count: 4
+        frameworks: ["hendricks", "sullivan", "hamilton", "hormozi"]
+        confidence: 0.85
+        evidence: "Gestao de equipes e vendas sao Zona de Excelencia (faz bem, nao gosta). 4 frameworks confirmam que SAIR dessas atividades e critico para monetizacao."
+
+      - id: "CONV-4"
+        insight: "MODELO HIGH-TOUCH poucos clientes"
+        frameworks_count: 4
+        frameworks: ["hormozi", "hamilton", "kolbe", "hogshead"]
+        confidence: 0.80
+        evidence: "Servico especializado, poucos clientes, profundidade. Hamilton (Supporter), Hormozi (consultoria), Kolbe (pesquisador profundo), Hogshead (Trust = relacionamento longo)"
+
+      - id: "CONV-5"
+        insight: "UPPER LIMIT PROBLEM financeiro"
+        frameworks_count: 3
+        frameworks: ["hendricks", "hormozi", "sullivan"]
+        confidence: 0.78
+        evidence: "Dificuldade em cobrar caro + dificuldade em delegar + prefere trabalhar sozinho = padrao de auto-limitacao. Hendricks (ULP tipo 4), Hormozi (gap de pricing), Sullivan (Who Not How baixo)"
+
+    unique_insights:
+      - framework: "kolbe"
+        insight: "Perfil 8-4-4-3 revela pesquisador profundo que nao sistematiza. Risco de acumular conhecimento sem converter em produto."
+      - framework: "hogshead"
+        insight: "Archetype 'The Authentic' (Trust+Passion) e raro no mercado de mentoria/consultoria dominado por 'Power' e 'Innovation'. Diferencial competitivo natural."
+
+    contradictions:
+      - id: "CONTRA-1"
+        observation: "Diz que e Construtor de Relacionamentos mas prefere trabalhar totalmente sozinho"
+        frameworks: ["clifton", "hamilton"]
+        resolution: "NAO e contradicao — Supporters e Relationship Builders podem preferir interacoes profundas e poucos relacionamentos. Introversao + Relationship Building = mentor 1:1, nao networker de massa."
+      - id: "CONTRA-2"
+        observation: "Quick Start moderado (4) mas se identifica como Apoiador que executa com excelencia"
+        frameworks: ["kolbe", "hamilton"]
+        resolution: "Supporter executa A VISAO DE OUTROS. Nao precisa de Quick Start alto — precisa de Follow Thru e Fact Finder, que ele tem."
+
+    meta_insights:
+      - "Miguel esta operando 55% do tempo na Zona de Excelencia (gestao/operacoes). Precisa inverter: 70% em Genialidade (ensino/mentoria/criacao de frameworks)."
+      - "Combinacao de Trust+Passion+Learner+Developer = arquetipo de 'Professor-Curador'. Monetiza melhor como mentor estrategico que como gestor operacional."
+      - "O bloqueio 'falta de tempo' e sintoma, nao causa. A causa e o Upper Limit Problem: dificuldade em sair da Excelencia e cobrar pelo que realmente faz de unico."
+      - "Perfil ideal: criar 2-3 frameworks proprios baseados na experiencia em gestao, vender como mentoria high-touch, usar AI para escalar conteudo educacional."

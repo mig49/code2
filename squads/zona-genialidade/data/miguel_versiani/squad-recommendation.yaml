@@ -1,0 +1,99 @@
+squad_recommendation:
+  metadata:
+    id: "squad_rec_miguel_versiani_2026-02-19"
+    name: "Miguel Versiani"
+    slug: "miguel_versiani"
+    date: "2026-02-19"
+    profile_id: "profile_miguel_versiani_2026-02-19"
+    algorithm_version: "1.0.0"
+
+  scoring_weights:
+    hamilton_match: 0.40
+    kolbe_match: 0.30
+    clifton_match: 0.20
+    context_bonus: 0.10
+
+  top_3_squads:
+    - rank: 1
+      squad_name: "Mentoria Premium / Consultoria Estrategica"
+      squad_type: "service-high-touch"
+      total_score: 0.87
+      scores:
+        hamilton: 0.90
+        kolbe: 0.85
+        clifton: 0.88
+        context: 0.82
+      rationale: |
+        MATCH PERFEITO para o perfil Supporter + Trust+Passion + Developer.
+        - Hamilton: Supporter monetiza melhor em modelo de servico de alto valor, apoiando outros a crescer
+        - Kolbe: Fact Finder 8 = pesquisa profunda antes de aconselhar (clientes valorizam isso)
+        - Clifton: Developer + Harmony = mentoria natural e empatica
+        - Context: Paixao por ensinar + simplificar complexidade = proposta de valor clara
+        - Modelo: 3-5 clientes pagando R$3k-5k/mes = R$9k-25k/mes (dentro da meta)
+        - Tempo: 5-10h/semana comporta 3-5 clientes em mentoria quinzenal
+      next_step: "Definir nicho especifico (gestao? transicao de carreira? estruturacao de expertise?) e criar oferta MVP"
+
+    - rank: 2
+      squad_name: "Educacao / Escola Online"
+      squad_type: "education-hybrid"
+      total_score: 0.79
+      scores:
+        hamilton: 0.75
+        kolbe: 0.80
+        clifton: 0.85
+        context: 0.78
+      rationale: |
+        BOM MATCH para Learner + Developer + simplificador.
+        - Hamilton: Supporter pode ensinar frameworks de outros (curadoria) ou criar os proprios
+        - Kolbe: Fact Finder 8 = pesquisa profunda cria conteudo denso e valioso
+        - Clifton: Learner + Developer = aprender e ensinar e o ciclo perfeito
+        - Context: AI intermediario permite criar conteudo assistido (escala sem perder qualidade)
+        - Risco: Exige mais tempo para producao de conteudo (5-10h pode ser apertado no inicio)
+      next_step: "Comecar com conteudo gratuito (newsletter/YouTube) para validar audiencia antes de criar curso pago"
+
+    - rank: 3
+      squad_name: "Curadoria & Comunidade"
+      squad_type: "community-curator"
+      total_score: 0.74
+      scores:
+        hamilton: 0.72
+        kolbe: 0.75
+        clifton: 0.80
+        context: 0.68
+      rationale: |
+        MATCH SOLIDO para Connectedness + Trust + curador de conhecimento.
+        - Hamilton: Supporter brilha em comunidades onde conecta e apoia membros
+        - Kolbe: Conecta coisas existentes de formas novas = curadoria natural
+        - Clifton: Harmony + Connectedness = gestor de comunidade nato
+        - Context: Trust+Passion = as pessoas ficariam em uma comunidade liderada por ele
+        - Risco: Comunidade exige presenca constante (conflito com 'falta de tempo')
+      next_step: "Comecar como comunidade pequena (30-50 membros) com modelo pago simples"
+
+  dream_squad:
+    name: "Framework Mentor Studio"
+    concept: |
+      Squad customizado que combina os 3 melhores elementos de cada recomendacao:
+      - Da Mentoria: Atendimento high-touch 1:1 e grupo pequeno
+      - Da Educacao: Frameworks simplificados e conteudo educacional
+      - Da Comunidade: Rede de apoio entre mentorados
+
+      MODELO: Miguel extrai expertise tacita de gestores/lideres, transforma em
+      frameworks simples e ensina via mentoria premium + conteudo educacional.
+      "O mentor que transforma sua experiencia em framework monetizavel."
+    revenue_model:
+      primary: "Mentoria grupal quinzenal (8-12 pessoas x R$1.500/mes = R$12k-18k/mes)"
+      secondary: "Mentoria 1:1 premium (3 pessoas x R$3.000/mes = R$9k/mes)"
+      tertiary: "Conteudo educacional (newsletter paga ou mini-cursos = R$2k-5k/mes)"
+      total_potential: "R$23k-32k/mes em regime maduro (6-12 meses)"
+    path_to_creation:
+      month_1: "Definir nicho, criar oferta MVP de mentoria 1:1, conseguir 2 clientes via warm outreach"
+      month_2_3: "Documentar framework proprio, criar conteudo organico semanal, chegar a 5 clientes"
+      month_4_6: "Lancar mentoria grupal, newsletter, escalar para 10-15 clientes total"
+
+  anti_recommendations:
+    - squad: "Agencia de Marketing/Performance"
+      reason: "Exige venda constante (Zona de Excelencia trap), operacional intenso, alto volume de clientes"
+    - squad: "SaaS / Produto Tecnico"
+      reason: "Implementor 3 = desconfortavel com desenvolvimento tecnico puro. Kolbe indica pensador abstrato."
+    - squad: "E-commerce / Produtos Fisicos"
+      reason: "Conflita com perfil abstrato e preferencia por servico high-touch"
