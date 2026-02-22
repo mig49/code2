@@ -1,0 +1,51 @@
+name: framework-mentor-studio
+version: 1.0.0
+short-title: "Framework Mentor Studio"
+description: "Squad de mentoria premium que transforma expertise em frameworks monetizaveis. Baseado em 8 elite minds com frameworks documentados."
+author: "Miguel Versiani"
+license: MIT
+slashPrefix: fms
+
+aios:
+  minVersion: "2.1.0"
+  type: squad
+
+components:
+  agents:
+    - agents/fms-chief.md
+    - agents/dan-sullivan.md
+    - agents/david-baker.md
+    - agents/alex-hormozi.md
+    - agents/alan-weiss.md
+    - agents/blair-enns.md
+    - agents/rich-litvin.md
+    - agents/susanna-reay.md
+    - agents/tiago-forte.md
+  tasks:
+    - tasks/start.md
+    - tasks/diagnose-expertise.md
+    - tasks/extract-framework.md
+    - tasks/create-offer.md
+    - tasks/position-authority.md
+    - tasks/acquire-clients.md
+  workflows:
+    - workflows/wf-mentor-journey.yaml
+  checklists:
+    - checklists/framework-quality.md
+    - checklists/offer-validation.md
+  templates:
+    - templates/framework-canvas.md
+    - templates/grand-slam-offer.md
+    - templates/positioning-statement.md
+
+config:
+  extends: extend
+
+tags:
+  - mentoria
+  - frameworks
+  - monetizacao
+  - expertise
+  - high-touch
+  - premium
+  - coaching

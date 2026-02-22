@@ -1,0 +1,356 @@
+# wf-mentor-journey.yaml
+# Master Workflow: Complete Mentor Journey
+# Version: 1.0.0
+# Purpose: Guide an expert from tacit knowledge to monetized mentoring practice
+
+workflow:
+  id: wf-mentor-journey
+  name: "Mentor Journey - From Expertise to Revenue"
+  version: "1.0.0"
+  purpose: "Transform tacit expertise into a documented framework and monetized mentoring practice"
+  orchestrator: "@fms-chief"
+  mode: "interactive"
+
+description: |
+  This is the primary workflow of the Framework Mentor Studio squad.
+  It guides the user through a 5-phase journey:
+
+  Phase 1: DIAGNOSE — Identify your unique expertise and zone of genius
+  Phase 2: EXTRACT — Capture and structure tacit knowledge into a framework
+  Phase 3: PACKAGE — Create your signature offer and pricing
+  Phase 4: POSITION — Establish authority in your niche
+  Phase 5: LAUNCH — Acquire first clients and start generating revenue
+
+  Each phase has clear inputs, outputs, checkpoints, and handoffs between agents.
+
+inputs:
+  required:
+    - name: user_context
+      description: "Brief description of the user's current situation, expertise area, and goals"
+    - name: genius_zone_blueprint
+      description: "Path to Genius Zone Blueprint PDF if available (optional but recommended)"
+  optional:
+    - name: existing_materials
+      description: "Any existing content, courses, or documentation the user has"
+    - name: revenue_target
+      description: "Monthly revenue target (default: R$5k-15k)"
+
+phases:
+  # ─────────────────────────────────────────────────────────────────────────────
+  - id: phase_1
+    name: "DIAGNOSE"
+    subtitle: "Identify Your Unique Expertise"
+    agents: ["@dan-sullivan", "@david-baker"]
+    duration: "30-60 minutes"
+    mode: "interactive"
+
+    description: |
+      Diagnose where your expertise lies using Dan Sullivan's Unique Ability
+      framework and David C. Baker's positioning methodology.
+
+    steps:
+      - id: step_1_1
+        name: "Unique Ability Discovery"
+        agent: "@dan-sullivan"
+        action: "Guide user through Unique Ability identification"
+        elicit: true
+        questions:
+          - "What do you do that energizes you (vs drains you)?"
+          - "What do people consistently thank you for?"
+          - "What do you do effortlessly that others find difficult?"
+          - "What would you do even if you weren't paid?"
+        output:
+          - unique_ability_statement
+          - zone_distribution (incompetence/competence/excellence/genius percentages)
+          - delegation_opportunities
+
+      - id: step_1_2
+        name: "Expertise Positioning"
+        agent: "@david-baker"
+        action: "Narrow positioning to create competitive advantage"
+        elicit: true
+        questions:
+          - "Can you name 5 specific problems you solve repeatedly?"
+          - "Who are the people you've helped most effectively?"
+          - "Can you write 20 blog posts about your niche? (Drop & Give Me Twenty test)"
+          - "How many direct competitors do you have?"
+        output:
+          - positioning_statement
+          - niche_definition
+          - pattern_identification
+
+    checkpoint:
+      id: CP_DIAGNOSE
+      blocking: true
+      criteria:
+        - unique_ability_identified: true
+        - positioning_defined: true
+        - patterns_documented: ">= 3"
+      output:
+        file: "docs/diagnosis-report.md"
+
+    handoff:
+      to: phase_2
+      context: "Unique ability + positioning + patterns identified"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  - id: phase_2
+    name: "EXTRACT"
+    subtitle: "Structure Your Knowledge Into a Framework"
+    agents: ["@susanna-reay", "@tiago-forte"]
+    duration: "60-120 minutes"
+    mode: "interactive"
+
+    description: |
+      Extract tacit knowledge and structure it into a documented, visual,
+      teachable framework using Susanna Reay's Framework Thinking and
+      Tiago Forte's knowledge capture methods.
+
+    steps:
+      - id: step_2_1
+        name: "Knowledge Capture"
+        agent: "@tiago-forte"
+        action: "Capture all expertise using CODE method"
+        process:
+          - "Capture: List everything you know about your domain"
+          - "Organize: Sort into PARA categories"
+          - "Distill: Progressive summarization to core principles"
+          - "Express: Identify intermediate packets for reuse"
+        output:
+          - knowledge_inventory
+          - core_principles (5-7 maximum)
+          - intermediate_packets
+
+      - id: step_2_2
+        name: "Framework Design"
+        agent: "@susanna-reay"
+        action: "Transform captured knowledge into signature framework"
+        process:
+          - "Simplify: Reduce to essential elements (3-7 steps/pillars)"
+          - "Package: Choose framework type (process, matrix, diagnostic, pyramid)"
+          - "Articulate: Name it, create visual representation"
+          - "Replicate: Design how clients will use it"
+          - "Keynote: Prepare authority presentation"
+        elicit: true
+        questions:
+          - "When you help someone, what steps do you always follow?"
+          - "What patterns do you see repeatedly in your work?"
+          - "If you had to explain your method in 5 steps, what would they be?"
+        output:
+          - signature_framework (named, documented, visual)
+          - framework_canvas (filled template)
+          - teaching_guide
+
+    checkpoint:
+      id: CP_EXTRACT
+      blocking: true
+      criteria:
+        - framework_documented: true
+        - framework_named: true
+        - visual_representation: true
+        - steps_defined: "3-7"
+      output:
+        file: "docs/signature-framework.md"
+
+    handoff:
+      to: phase_3
+      context: "Documented signature framework ready for offer creation"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  - id: phase_3
+    name: "PACKAGE"
+    subtitle: "Create Your Irresistible Offer"
+    agents: ["@alex-hormozi", "@alan-weiss"]
+    duration: "45-90 minutes"
+    mode: "interactive"
+
+    description: |
+      Transform your framework into a premium offer using Alex Hormozi's
+      Grand Slam Offer methodology and Alan Weiss's Value-Based Fees.
+
+    steps:
+      - id: step_3_1
+        name: "Value Equation Design"
+        agent: "@alex-hormozi"
+        action: "Design offer using Value Equation"
+        process:
+          - "Define Dream Outcome for your avatar"
+          - "Maximize Perceived Likelihood of success"
+          - "Minimize Time Delay to results"
+          - "Minimize Effort & Sacrifice required"
+          - "Create core offer + bonuses + guarantee"
+          - "Name the offer (Grand Slam naming formula)"
+        output:
+          - value_equation_score
+          - grand_slam_offer_draft
+          - bonus_stack
+          - guarantee
+
+      - id: step_3_2
+        name: "Pricing Strategy"
+        agent: "@alan-weiss"
+        action: "Set value-based pricing with tiered options"
+        process:
+          - "Define Objectives (what client wants to achieve)"
+          - "Define Metrics (how we'll measure success)"
+          - "Define Value (what achieving these objectives is worth)"
+          - "Create 3 tier options (good/better/best)"
+          - "Conceptual agreement before price discussion"
+        output:
+          - pricing_tiers (3 options)
+          - value_articulation
+          - proposal_template
+
+    checkpoint:
+      id: CP_PACKAGE
+      blocking: true
+      criteria:
+        - offer_complete: true
+        - pricing_defined: true
+        - value_equation_score: ">= 4.0"
+      output:
+        file: "docs/offer-document.md"
+
+    handoff:
+      to: phase_4
+      context: "Complete offer with pricing ready for positioning"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  - id: phase_4
+    name: "POSITION"
+    subtitle: "Establish Your Authority"
+    agents: ["@blair-enns", "@david-baker"]
+    duration: "30-60 minutes"
+    mode: "interactive"
+
+    description: |
+      Position yourself as the go-to authority using Blair Enns' expertise
+      positioning and David C. Baker's content strategy.
+
+    steps:
+      - id: step_4_1
+        name: "Expertise Positioning"
+        agent: "@blair-enns"
+        action: "Define expertise-based positioning"
+        process:
+          - "Apply Win Without Pitching principles"
+          - "Define where you are: Generalist → Specialist → Expert → Authority"
+          - "Create positioning statement that demonstrates (not describes) expertise"
+          - "Design diagnostic conversation framework (diagnose before prescribe)"
+        output:
+          - positioning_level
+          - positioning_statement
+          - diagnostic_framework
+
+      - id: step_4_2
+        name: "Content Authority Strategy"
+        agent: "@david-baker"
+        action: "Design content strategy that demonstrates expertise"
+        process:
+          - "Content pillar strategy (based on framework components)"
+          - "Newsletter/blog topics (from the Drop & Give Me Twenty list)"
+          - "Speaking/presentation one-pager"
+          - "Referral strategy"
+        output:
+          - content_strategy
+          - first_month_content_calendar
+          - authority_channels
+
+    checkpoint:
+      id: CP_POSITION
+      blocking: false
+      criteria:
+        - positioning_defined: true
+        - content_plan: true
+      output:
+        file: "docs/positioning-strategy.md"
+
+    handoff:
+      to: phase_5
+      context: "Positioning and content strategy defined"
+
+  # ─────────────────────────────────────────────────────────────────────────────
+  - id: phase_5
+    name: "LAUNCH"
+    subtitle: "Acquire Your First Clients"
+    agents: ["@rich-litvin", "@alex-hormozi"]
+    duration: "30-45 minutes"
+    mode: "interactive"
+
+    description: |
+      Launch your mentoring practice using Rich Litvin's relationship-based
+      client creation and Hormozi's lead generation framework.
+
+    steps:
+      - id: step_5_1
+        name: "Client Creation Strategy"
+        agent: "@rich-litvin"
+        action: "Design high-touch client acquisition"
+        process:
+          - "Identify 10 powerful people in your network"
+          - "Design enrollment conversation (give value first)"
+          - "Create 'free coaching session' offer for first 2-3 clients"
+          - "Design deep coaching experience for retention"
+        output:
+          - prospect_list_template
+          - enrollment_script
+          - free_session_structure
+          - retention_strategy
+
+      - id: step_5_2
+        name: "Lead Generation Plan"
+        agent: "@alex-hormozi"
+        action: "Create sustainable lead generation system"
+        process:
+          - "Warm Outreach plan (5 conversations/week)"
+          - "Free Content plan (1 post/week simplifying something complex)"
+          - "Lead magnet design (if applicable)"
+          - "90-day revenue roadmap"
+        output:
+          - weekly_action_plan
+          - lead_generation_system
+          - revenue_roadmap_90_days
+
+    checkpoint:
+      id: CP_LAUNCH
+      blocking: true
+      criteria:
+        - acquisition_strategy_complete: true
+        - first_actions_defined: true
+      output:
+        file: "docs/launch-plan.md"
+
+    final_output: |
+      Your Framework Mentor Studio journey is complete!
+
+      You now have:
+      1. Your Unique Ability diagnosis and positioning
+      2. Your documented Signature Framework
+      3. Your premium offer with value-based pricing
+      4. Your authority positioning and content strategy
+      5. Your client acquisition plan with 90-day roadmap
+
+      Next step: Execute the launch plan. Start with warm outreach TODAY.
+
+transitions:
+  - from: phase_1
+    to: phase_2
+    condition: diagnosis_complete
+  - from: phase_2
+    to: phase_3
+    condition: framework_documented
+  - from: phase_3
+    to: phase_4
+    condition: offer_complete
+  - from: phase_4
+    to: phase_5
+    condition: positioning_defined
+  - from: phase_5
+    to: complete
+    condition: launch_plan_ready
+
+metadata:
+  version: "1.0.0"
+  created: "2026-02-22"
+  author: "Squad Architect"
+  squad: "framework-mentor-studio"
