@@ -4,8 +4,9 @@
 
 **Autor:** Miguel Versiani
 **Data:** 2026-02-22
-**Disponibilidade:** 5-10 horas/semana
-**Meta 90 dias:** 5 clientes pagantes no Tier 2 (R$15.000/mes)
+**Disponibilidade:** 5-10 horas/semana (4 filhos, paternity leave)
+**Meta 90 dias:** 5 clientes pagantes Tier 1/2 (R$9.000-15.000/mes)
+**Meta de conversas:** 25 (minimo aceitavel: 15)
 
 ---
 
@@ -289,25 +290,27 @@ Ou:
 
 | Metrica | Meta Semanal | Tracking |
 |---------|-------------|----------|
-| Convites enviados | 5-8 | ___/semana |
-| Conversas realizadas | 3-5 | ___/semana |
-| Posts LinkedIn | 2-3 | ___/semana |
-| Artigos/newsletter | 1 | ___/semana |
+| Convites enviados | 3-5 | ___/semana |
+| Conversas realizadas | 2-3 | ___/semana |
+| Posts LinkedIn | 2 | ___/semana |
+| Artigos/newsletter | 1 a cada 2 semanas | ___/quinzena |
 
 ### KPIs Mensais
 
 | Metrica | Mes 1 | Mes 2 | Mes 3 |
 |---------|-------|-------|-------|
-| Conversas acumuladas | 10+ | 25+ | 40+ |
+| Conversas acumuladas | 7-10 | 15-18 | 22-25 |
 | Pilotos gratuitos | 2-3 | 3 (total) | 3 (total) |
 | Clientes pagantes | 0-1 | 2-3 | 5 |
 | Receita mensal | R$0-3k | R$3k-9k | R$9k-15k |
 | Depoimentos | 2+ | 4+ | 6+ |
-| Posts publicados | 8+ | 16+ | 24+ |
+| Posts publicados | 8+ | 16+ | 24+ (incluindo artigos) |
 | Indicacoes recebidas | 2-3 | 5-8 | 10+ |
 
 ### North Star Metric
 **Numero de enrollment conversations realizadas por semana.** Tudo flui a partir disso. Mais conversas = mais clientes = mais receita = mais depoimentos = mais conteudo = mais conversas.
+
+**Meta realista:** 2-3 conversas/semana (nao 3-5). Com prep + follow-up, cada conversa consome ~1h total. 2-3 conversas = 2-3h/semana so em diagnosticas, deixando 3-7h para sessoes com clientes, conteudo e familia.
 
 ---
 

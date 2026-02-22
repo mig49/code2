@@ -20,33 +20,49 @@
 
 ## 2. VALUE EQUATION
 
-```
-        Dream Outcome (9) x Perceived Likelihood (7)       63
-Score = ─────────────────────────────────────────────── = ──── = 9.8
-         Time Delay (2)   x  Effort & Sacrifice (2)         4
+### Baseline de Lancamento (Dia 0 — sem testimonials, sem case studies)
 
-Score: 9.8 ✅ (meta: >= 4.0)
 ```
+        Dream Outcome (9) x Perceived Likelihood (4)       36
+Score = ─────────────────────────────────────────────── = ──── = 6.0
+         Time Delay (2)   x  Effort & Sacrifice (3)         6
+
+Score ATUAL: 6.0 ✅ (meta: >= 4.0)
+```
+
+### Projecao de Evolucao da Value Equation
+
+| Momento | Perceived Likelihood | Effort & Sacrifice | Score | O que mudou |
+|---------|---------------------|-------------------|-------|-------------|
+| Dia 0 (lancamento) | 4 | 3 | **6.0** | Sem testimonials, sem case studies |
+| Dia 30 (2-3 pilotos feitos) | 5 | 3 | **7.5** | Primeiros depoimentos reais |
+| Dia 60 (2-3 clientes pagantes) | 6 | 2 | **13.5** | Case studies documentados + processo refinado |
+| Dia 90 (5 clientes + indicacoes) | 7 | 2 | **15.8** | Prova social solida + templates testados |
+
+*A Value Equation que sobe de 6.0 para 15.8 em 90 dias conta uma historia mais poderosa do que uma que "comeca" em 9.8.*
 
 ### Dream Outcome (9/10):
 - O que recebem: Framework proprio nomeado + oferta premium em 3 tiers + primeiros clientes pagantes
 - Como a vida muda: De empregado/consultor cobrando por hora → mentor premium cobrando por valor
 - Payoff emocional: "Finalmente estou fazendo o que nasci para fazer — e sendo pago por isso"
 
-### Perceived Likelihood (7/10):
-- Proof elements: [x] Credentials [x] Guarantee [x] Framework documentado [ ] Testimonials (a construir)
-- Por que acreditar: Criador com 11 anos de gestao de equipas grandes + framework validado por 7 elite minds + a propria transicao como case study
+### Perceived Likelihood (4/10 — baseline honesto):
+- Proof elements: [x] Credentials [x] Guarantee [x] Framework documentado [ ] Testimonials [ ] Case studies
+- O que existe hoje: 11 anos de gestao de equipas grandes + framework documentado + propria transicao como case study #0
+- O que falta (e vai ser construido): Depoimentos de clientes reais, resultados mensuráveis de terceiros
+- Plano para subir: Cada piloto gratuito gera 1 depoimento → cada cliente pagante gera 1 case study
 
-### Time Delay (baixo — 8/10):
+### Time Delay (baixo — 2/10):
 - Primeiro resultado em: 7 dias (Mapa das 4 Zonas + Unique Ability identificada)
 - Framework nomeado em: 45 dias
 - Resultado completo em: 90 dias
 - Quick win na primeira sessao: "Voce vai sair da sessao 1 sabendo exatamente em que zona esta preso e qual e sua Unique Ability"
 
-### Effort & Sacrifice (baixo — 8/10):
+### Effort & Sacrifice (3/10 — calibrado):
 - O que NAO precisam fazer: criar plataforma, ter milhares de seguidores, dominar marketing digital, gravar curso online, fazer lancamento massivo
 - Compromisso semanal: 2-3 horas (1 sessao + trabalho autonomo com templates)
 - O que facilita: templates prontos em cada fase, sequencia clara (sem decisoes de "por onde comecar"), suporte assincrono
+- Nota de calibracao: O mentorado precisa fazer o trabalho entre sessoes (brain dump, exercicios, preenchimento de canvas). Nao e passivo — e guiado mas exige comprometimento
 
 ---
 
@@ -80,7 +96,23 @@ Score: 9.8 ✅ (meta: >= 4.0)
 
 ### Garantia Hibrida:
 - **Tipo:** Satisfacao (14 dias) + Resultado condicional
-- **Statement:** "14 dias de satisfacao total — se nao sentir que e para voce, devolvemos 100% do valor, sem perguntas. Apos isso, se voce completar todas as 5 fases do Metodo PONTE e nao tiver seu framework nomeado e sua oferta estruturada, ganha 1 mes extra de acompanhamento gratuito."
+- **Statement:** "14 dias de satisfacao total — se nao sentir que e para voce, devolvemos 100% do valor, sem perguntas. Apos isso, se voce cumprir os criterios de participacao e nao tiver framework nomeado e oferta estruturada, ganha 1 mes extra de acompanhamento gratuito."
+
+**Criterios objetivos de participacao (para ativar a garantia de resultado):**
+O mentorado deve ter cumprido TODOS os seguintes criterios:
+1. Participou em pelo menos 8 das 10 sessoes agendadas (80% de presenca)
+2. Entregou os 5 deliverables das fases dentro do prazo acordado:
+   - Fase P: Mapa de Zonas preenchido + Unique Ability Statement
+   - Fase O: Brain dump + Knowledge Inventory
+   - Fase N: Framework Canvas preenchido + nome definido
+   - Fase T: Oferta em 3 tiers + proposta rascunho
+   - Fase E: Lista de prospects + 3 conversas diagnosticas realizadas
+3. Respondeu ao suporte assincrono em ate 72 horas quando solicitado
+4. Nao teve mais de 2 semanas consecutivas de inatividade sem aviso previo
+
+**Se os criterios NAO forem cumpridos:** A garantia de resultado nao se aplica (apenas a garantia de satisfacao dos 14 dias iniciais permanece vigente).
+
+**Racional:** A garantia protege quem faz o trabalho. Quem nao participa ativamente nao pode responsabilizar o programa pelo resultado.
 
 ---
 
@@ -100,9 +132,14 @@ Score: 9.8 ✅ (meta: >= 4.0)
 | **Total (3 meses)** | **R$4.500** | **R$9.000** | **R$22.500** |
 
 ### Price Anchoring:
-- Tier 3 (R$22.500) faz o Tier 2 (R$9.000) parecer extremamente razoavel
 - Tier 1 (R$4.500) existe para quem precisa comecar mas tem orcamento limitado
-- **Target:** 70% dos clientes no Tier 2, 20% no Tier 1, 10% no Tier 3
+- Tier 2 (R$9.000) e o tier principal — onde a maioria deve estar
+- **Target clientes 1-5:** 60% Tier 2, 40% Tier 1 (apresentar apenas Tier 1 e 2)
+
+### Tier 3 — Lancamento Futuro:
+- **NAO apresentar o Tier 3 nos primeiros 5 clientes.** A Perceived Likelihood atual (sem track record publico como mentor) nao ancora R$22.500.
+- **Ativar o Tier 3 quando:** Tiver 3+ case studies documentados com resultados mensuraveis E pelo menos 2 depoimentos em video/texto publicos.
+- Nesse momento, o Tier 3 entra naturalmente como evolucao — e o price anchoring funciona com credibilidade real.
 
 ### Value Articulation:
 - "O Acelerador PONTE vale R$9.000 porque em 90 dias voce tera a capacidade de gerar R$9.000-25.000/mes como mentor premium. O programa se paga no primeiro mes de operacao."
@@ -220,5 +257,6 @@ Agendar conversa de 30 minutos para alinhar se o programa e adequado para voce.
 
 ---
 
-*Offer Document v1.0.0 | Acelerador PONTE 90 Dias | Miguel Versiani | 2026-02-22*
+*Offer Document v1.1.0 | Acelerador PONTE 90 Dias | Miguel Versiani | 2026-02-22*
+*v1.1.0: Value Equation calibrada para baseline real, Tier 3 adiado, garantia com criterios objetivos*
 *Construido com Framework Mentor Studio | Alex Hormozi ($100M Offers) + Alan Weiss (Value-Based Fees)*

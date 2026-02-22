@@ -89,7 +89,22 @@
 
 ## 4. CONTENT PILLARS
 
-### Pilar 1: A Zona de Excelencia (Fase P)
+### Estrategia de Priorizacao
+
+**Primeiros 90 dias: 3 pilares apenas.** Com 5-10h/semana de disponibilidade, 4 filhos e paternity leave, 6 pilares com 27 temas e insustentavel. Foco radical nos 3 pilares que constroem credibilidade mais rapido:
+
+| Prioridade | Pilar | Por que agora |
+|-----------|-------|---------------|
+| **P1 — AGORA** | Zona de Excelencia | Cria identificacao imediata com o avatar |
+| **P2 — AGORA** | Framework como IP | Demonstra expertise e diferenciacao |
+| **P3 — AGORA** | Bastidores Autenticos | Constroi confianca (The Authentic) |
+| P4 — Trimestre 2 | Conhecimento Tacito | Aprofunda apos credibilidade estabelecida |
+| P5 — Trimestre 2 | Precificar pelo Valor | Entra quando tiver case studies de pricing |
+| P6 — Trimestre 2 | Primeiros Clientes | Entra quando tiver resultados para mostrar |
+
+---
+
+### Pilar 1 (P1): A Zona de Excelencia (Fase P)
 | # | Tema | Formato | Hook |
 |---|------|---------|------|
 | 1 | A prisao dourada que ninguem fala | Historia pessoal | "Eu era excelente. E estava morrendo por dentro." |
@@ -98,15 +113,7 @@
 | 4 | A diferenca entre ser bom e ser genial | Provocacao | "Excelencia nao e genialidade. E na verdade o oposto." |
 | 5 | Como descobri minha Unique Ability | Bastidores | "Depois de 11 anos na Sotreq, finalmente entendi o que me tornava unico." |
 
-### Pilar 2: Conhecimento Tacito (Fase O)
-| # | Tema | Formato | Hook |
-|---|------|---------|------|
-| 1 | Voce sabe mais do que pensa | Provocacao | "20 anos de experiencia e ZERO frameworks documentados. Soa familiar?" |
-| 2 | O exercicio que extrai o que voce sabe | How-to | "Faca isso por 30 minutos e voce vai se assustar com o que sabe." |
-| 3 | Por que especialistas nao conseguem ensinar | Conceito | "Quanto mais voce sabe, mais dificil e explicar. E um paradoxo." |
-| 4 | Brain dump: o primeiro passo para o seu framework | Tutorial | "Passo a passo: como tirar o conhecimento da sua cabeca." |
-
-### Pilar 3: Framework como IP (Fase N)
+### Pilar 2 (P2): Framework como IP (Fase N)
 | # | Tema | Formato | Hook |
 |---|------|---------|------|
 | 1 | Se voce nao nomeia, nao possui | Provocacao | "SCRUM, GTD, Lean Startup. Sabe o que eles tem em comum? Um nome." |
@@ -114,28 +121,49 @@
 | 3 | Os 6 tipos de framework (qual e o seu?) | Educativo | "Processo, Matriz, Diagnostico, Piramide, Ciclo ou Hibrido?" |
 | 4 | Como criei o Metodo PONTE | Bastidores | "A historia de como 7 frameworks de elite minds viraram 5 letras." |
 
-### Pilar 4: Precificar pelo Valor (Fase T)
+### Pilar 3 (P3): Bastidores Autenticos
+| # | Tema | Formato | Hook |
+|---|------|---------|------|
+| 1 | 11 anos na Sotreq: o que aprendi gestindo 250 pessoas | Historia | "O dia em que percebi que era bom demais no lugar errado." |
+| 2 | De Brasil para Portugal para Africa | Historia | "3 continentes, 1 descoberta: o que funciona em qualquer cultura." |
+| 3 | O dia que descobri minha Zona de Genialidade | Bastidores | "Um PDF de 8 paginas mudou como eu vejo minha carreira." |
+
+---
+
+### Arsenal Reserva (Trimestre 2 — ativar apos 3 case studies)
+
+<details>
+<summary>Pilar 4: Conhecimento Tacito (Fase O)</summary>
+
+| # | Tema | Formato | Hook |
+|---|------|---------|------|
+| 1 | Voce sabe mais do que pensa | Provocacao | "20 anos de experiencia e ZERO frameworks documentados. Soa familiar?" |
+| 2 | O exercicio que extrai o que voce sabe | How-to | "Faca isso por 30 minutos e voce vai se assustar com o que sabe." |
+| 3 | Por que especialistas nao conseguem ensinar | Conceito | "Quanto mais voce sabe, mais dificil e explicar. E um paradoxo." |
+| 4 | Brain dump: o primeiro passo para o seu framework | Tutorial | "Passo a passo: como tirar o conhecimento da sua cabeca." |
+</details>
+
+<details>
+<summary>Pilar 5: Precificar pelo Valor (Fase T)</summary>
+
 | # | Tema | Formato | Hook |
 |---|------|---------|------|
 | 1 | Pare de cobrar por hora. Agora. | Provocacao | "Cobrar R$200/hora e a forma mais rapida de se desvalorizar." |
 | 2 | A equacao que mostra quanto voce realmente vale | Educativo | "Value Equation: Resultado x Probabilidade / Tempo x Esforco." |
 | 3 | 3 tiers de preco: o segredo do price anchoring | How-to | "Por que oferecer 3 opcoes faz o cliente escolher a do meio." |
 | 4 | Proposta consultiva em 2.5 paginas | Template | "Meu modelo de proposta que converte em 60%+ das conversas." |
+</details>
 
-### Pilar 5: Primeiros Clientes (Fase E)
+<details>
+<summary>Pilar 6: Primeiros Clientes (Fase E)</summary>
+
 | # | Tema | Formato | Hook |
 |---|------|---------|------|
 | 1 | Nao venda. Crie clientes. | Conceito | "A diferenca entre vender e criar clientes e a mesma entre empurrar e atrair." |
 | 2 | A conversa de enrollment | How-to | "4 passos: Connection, Challenge, Create, Close." |
 | 3 | Voce nao precisa de 1000 seguidores | Desmistificacao | "Meus primeiros clientes vieram de 25 conversas. Nao de conteudo viral." |
 | 4 | Os primeiros 90 dias: roteiro real | Bastidores | "Semana a semana, o que fiz para sair do zero." |
-
-### Pilar 6: Bastidores Autenticos
-| # | Tema | Formato | Hook |
-|---|------|---------|------|
-| 1 | 11 anos na Sotreq: o que aprendi gestindo 250 pessoas | Historia | "O dia em que percebi que era bom demais no lugar errado." |
-| 2 | De Brasil para Portugal para Africa | Historia | "3 continentes, 1 descoberta: o que funciona em qualquer cultura." |
-| 3 | O dia que descobri minha Zona de Genialidade | Bastidores | "Um PDF de 8 paginas mudou como eu vejo minha carreira." |
+</details>
 
 ---
 
@@ -145,9 +173,11 @@
 
 | Formato | Frequencia | Objetivo |
 |---------|-----------|----------|
-| Post longo (400-800 palavras) | 2-3x/semana | Atrair e educar |
-| Artigo/newsletter | 1x/semana | Profundidade + autoridade |
-| Comentarios estrategicos | Diario (15 min) | Visibilidade em posts de outros gestores |
+| Post longo (400-800 palavras) | 2x/semana | Atrair e educar |
+| Artigo/newsletter | 1x a cada 2 semanas | Profundidade + autoridade |
+| Comentarios estrategicos | 3-4x/semana (10 min) | Visibilidade em posts de outros gestores |
+
+**Carga real:** ~8-10 pecas de conteudo/mes (nao 16-20). Sustentavel com 4 filhos e 5-10h/semana.
 
 **Estilo The Authentic:**
 - Escreva como voce fala — sem jargao corporativo
@@ -173,32 +203,40 @@
 
 ## 6. CALENDARIO — PRIMEIRAS 12 SEMANAS
 
-### Mes 1: Identidade + Problema
+### Mes 1: Identidade + Problema (Pilar 1 + Pilar 3)
 
-| Semana | Post 1 | Post 2 | Artigo semanal |
-|--------|--------|--------|----------------|
-| 1 | A prisao dourada que ninguem fala | Como descobri minha Unique Ability | "Eu era excelente. E estava morrendo por dentro." |
-| 2 | Visao geral do Metodo PONTE (diagrama) | Os 4 sinais de que voce esta preso | "O que e a Zona de Excelencia e por que ela te trava" |
-| 3 | Voce sabe mais do que pensa | Por que especialistas nao conseguem ensinar | "O paradoxo do expertise: quanto mais sabe, menos ensina" |
-| 4 | O exercicio que extrai o que voce sabe | 11 anos na Sotreq: o que aprendi | "Brain dump: como tirar 20 anos da sua cabeca em 30 minutos" |
+| Semana | Post 1 (P1) | Post 2 (P3) | Artigo quinzenal |
+|--------|-------------|-------------|------------------|
+| 1 | A prisao dourada que ninguem fala | 11 anos na Sotreq: o que aprendi gestindo 250 pessoas | "Eu era excelente. E estava morrendo por dentro." |
+| 2 | Os 4 sinais de que voce esta preso | Visao geral do Metodo PONTE (diagrama) | — |
+| 3 | Upper Limit Problem: a auto-sabotagem silenciosa | De Brasil para Portugal para Africa | "O que e a Zona de Excelencia e por que ela te trava" |
+| 4 | A diferenca entre ser bom e ser genial | Como descobri minha Unique Ability | — |
 
-### Mes 2: Framework + Oferta
+**Carga Mes 1:** 8 posts + 2 artigos = 10 pecas
 
-| Semana | Post 1 | Post 2 | Artigo semanal |
-|--------|--------|--------|----------------|
-| 5 | Se voce nao nomeia, nao possui | Os 6 tipos de framework | "Complexidade → Framework → Clareza: o ciclo nuclear" |
-| 6 | Como criei o Metodo PONTE | Pare de cobrar por hora | "O dia em que parei de vender tempo e comecei a vender transformacao" |
-| 7 | A equacao que mostra quanto voce vale | 3 tiers de preco | "Value Equation: a matematica por tras de ofertas irresistiveis" |
-| 8 | Proposta consultiva em 2.5 paginas | De Brasil para Portugal para Africa | "O modelo de proposta que substitui o pitch" |
+### Mes 2: Framework + Metodo (Pilar 2 + Pilar 3)
 
-### Mes 3: Lancamento + Resultados
+| Semana | Post 1 (P2) | Post 2 (P1/P3) | Artigo quinzenal |
+|--------|-------------|----------------|------------------|
+| 5 | Se voce nao nomeia, nao possui | O dia que descobri minha Zona de Genialidade | "Complexidade → Framework → Clareza: o ciclo nuclear" |
+| 6 | Os 6 tipos de framework (qual e o seu?) | [Republish/remix do melhor post do mes 1] | — |
+| 7 | Complexidade → Framework → Clareza (diagrama) | Como descobri que meu processo tinha nome | "Se voce nao nomeia, nao possui — por que IP muda tudo" |
+| 8 | Como criei o Metodo PONTE | [Resultado de piloto gratuito — se disponivel] | — |
 
-| Semana | Post 1 | Post 2 | Artigo semanal |
-|--------|--------|--------|----------------|
-| 9 | Nao venda. Crie clientes. | A conversa de enrollment (4Cs) | "A diferenca entre vender e criar clientes" |
-| 10 | Voce nao precisa de 1000 seguidores | Upper Limit Problem | "25 conversas > 25.000 seguidores" |
-| 11 | Os primeiros 90 dias: roteiro real | A diferenca entre ser bom e ser genial | "Semana a semana: o que fiz para sair do zero" |
-| 12 | O dia que descobri minha Zona de Genialidade | Resultados dos primeiros mentorados | "Recapitulacao: 12 semanas de conteudo, X conversas, Y clientes" |
+**Carga Mes 2:** 8 posts + 2 artigos = 10 pecas
+
+### Mes 3: Resultados + Prova (Pilar 1 + Pilar 2 + Pilar 3)
+
+| Semana | Post 1 | Post 2 | Artigo quinzenal |
+|--------|--------|--------|------------------|
+| 9 | [Mini case study do piloto/cliente] | A diferenca entre saber fazer e ensinar a fazer | "A historia do Metodo PONTE: de 7 frameworks a 5 letras" |
+| 10 | O que aprendi nas primeiras X conversas diagnosticas | [Depoimento de piloto/cliente] | — |
+| 11 | Por que gestores experientes travam na hora de cobrar | [Bastidores: o que estou a construir] | "12 semanas depois: o que mudou" |
+| 12 | Recapitulacao: 12 semanas, X conversas, Y resultados | [Convite direto para conversa diagnostica] | — |
+
+**Carga Mes 3:** 8 posts + 2 artigos = 10 pecas
+
+**Total 12 semanas: ~30 pecas de conteudo** (vs 48 no plano anterior). Sustentavel.
 
 ---
 
@@ -249,5 +287,6 @@
 
 ---
 
-*Positioning Strategy v1.0.0 | Metodo PONTE | Miguel Versiani | 2026-02-22*
+*Positioning Strategy v1.1.0 | Metodo PONTE | Miguel Versiani | 2026-02-22*
+*v1.1.0: Pilares reduzidos a 3 para primeiros 90 dias, frequencia calibrada (2 posts/sem + 1 artigo/quinzena), carga total ~30 pecas*
 *Construido com Framework Mentor Studio | Blair Enns (Win Without Pitching) + David C. Baker (Business of Expertise)*
