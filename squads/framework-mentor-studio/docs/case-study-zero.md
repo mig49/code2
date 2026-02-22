@@ -72,6 +72,7 @@ Plano de lancamento com estrategia de Ponte de Credibilidade (Pesquisador → Es
 | Content strategy | Nao existia | 12 semanas com 3 pilares e ~30 pecas de conteudo |
 | Launch plan | Nao existia | Roadmap de 90 dias com scripts, prospects, metricas |
 | Clareza sobre Unique Ability | Intuicao vaga | Statement documentado com diagnostico de 7 frameworks |
+| Clareza sobre o proximo passo | Paralisia por excesso de opcoes | Plano de 90 dias com acoes semanais |
 | Zona dominante | Excelencia (preso) | Em transicao para Genialidade (consciente e com plano) |
 
 ---
