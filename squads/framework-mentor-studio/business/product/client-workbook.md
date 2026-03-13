@@ -49,18 +49,9 @@ _______________________________________________________________
 
 **Instrucao:** A Unique Ability e a intersecao do que voce ama fazer, o que faz com facilidade e o que cria valor extraordinario para outros. Responda cada criterio honestamente.
 
-**Os 4 criterios:**
+**Os 4 criterios (Dan Sullivan — Strategic Coach):**
 
-**Paixao superior** — Voce sente uma paixao genuina por essa atividade que vai alem da satisfacao profissional normal?
-
-```
-( ) Sim, claramente    ( ) Parcialmente    ( ) Nao ainda
-
-Explique: ____________________________________________________
-_______________________________________________________________
-```
-
-**Melhoria infinita** — Voce tem a sensacao de que sempre pode melhorar nessa area, e isso te motiva em vez de te frustrar?
+**Paixao** — Voce sente entusiasmo genuino por essa atividade? Faria mesmo sem ser pago?
 
 ```
 ( ) Sim, claramente    ( ) Parcialmente    ( ) Nao ainda
@@ -69,7 +60,7 @@ Explique: ____________________________________________________
 _______________________________________________________________
 ```
 
-**Extraordinario para outros** — Pessoas ao seu redor frequentemente ficam surpresas ou impressionadas com a facilidade com que voce faz isso?
+**Talento superior** — Voce produz resultados claramente acima da media nessa area?
 
 ```
 ( ) Sim, claramente    ( ) Parcialmente    ( ) Nao ainda
@@ -78,7 +69,16 @@ Explique: ____________________________________________________
 _______________________________________________________________
 ```
 
-**Valor mensuravel** — Quando voce aplica essa habilidade, ha um resultado concreto e positivo para quem recebe?
+**Energia renovada** — Voce sai energizado depois de fazer isso, nao esgotado?
+
+```
+( ) Sim, claramente    ( ) Parcialmente    ( ) Nao ainda
+
+Explique: ____________________________________________________
+_______________________________________________________________
+```
+
+**Desejo de melhorar sempre** — Voce quer continuar aprendendo e evoluindo nesta area, e isso te motiva em vez de te frustrar?
 
 ```
 ( ) Sim, claramente    ( ) Parcialmente    ( ) Nao ainda
@@ -422,10 +422,13 @@ _______________________________________________________________
 Oferta principal (o que o cliente compra): ____________________
 _______________________________________________________________
 
-Bonus 1 (complementa a oferta principal): _____________________
+Bonus 1 (acelera o resultado): _________________________________
 _______________________________________________________________
 
-Bonus 2 (remove uma objecao ou acelera resultado): ____________
+Bonus 2 (remove uma objecao especifica): _______________________
+_______________________________________________________________
+
+Bonus 3 (adiciona valor inesperado): ___________________________
 _______________________________________________________________
 
 Garantia (condicoes exatas): _________________________________
