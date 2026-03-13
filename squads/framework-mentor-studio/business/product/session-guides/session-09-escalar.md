@@ -6,7 +6,7 @@
 
 ---
 
-## Objectivo da Sessao
+## Objetivo da Sessao
 
 Preparar e praticar o script de enrollment conversation usando o modelo 4Cs e criar o calendario de conteudo para as primeiras 4 semanas de presenca publica com o Signature Framework. No final da sessao, o mentorado sabe como ter a conversa que converte e tem conteudo planeado para comecar a publicar.
 
@@ -45,12 +45,12 @@ O modelo 4Cs (enrollment conversation):
 ---
 
 **C1 — Connection (5-10 min da conversa)**
-Objectivo: criar confianca genuina antes de falar de negocios.
+Objetivo: criar confianca genuina antes de falar de negocios.
 
 Perguntas-guia para personalizar:
-- "Como esta a correr o [contexto especifico do prospect]?"
-- "O que te trouxe a este ponto na tua carreira/negocio?"
-- "O que e que te entusiasma mais no que estas a fazer agora?"
+- "Como esta indo o [contexto especifico do prospect]?"
+- "O que te trouxe a este ponto na sua carreira/negocio?"
+- "O que te entusiasma mais no que voce esta fazendo agora?"
 
 Principio: nao fingir interesse — ter interesse real. Se nao ha interesse genuino, nao e um cliente certo.
 
@@ -60,14 +60,14 @@ Script do mentorado para C1:
 ---
 
 **C2 — Challenge (10-15 min da conversa)**
-Objectivo: ajudar o prospect a articular o problema que esta a viver.
+Objetivo: ajudar o prospect a articular o problema que esta vivendo.
 
 Perguntas-guia:
-- "Qual e o maior desafio que estas a enfrentar em [area de actuacao do mentorado] agora?"
-- "O que ja tentaste e nao funcionou como esperavas?"
-- "Se este problema continuar por mais 12 meses, o que acontece ao teu negocio/carreira?"
+- "Qual e o maior desafio que voce esta enfrentando em [area de atuacao do mentorado] agora?"
+- "O que voce ja tentou e nao funcionou como esperava?"
+- "Se este problema continuar por mais 12 meses, o que acontece com o seu negocio/carreira?"
 
-A chave: deixar o prospect descobrir a magnitude do problema em voz propria — nao dizer "o teu problema e grande", deixar que ele o diga.
+A chave: deixar o prospect descobrir a magnitude do problema em voz propria — nao dizer "o seu problema e grande", deixar que ele o diga.
 
 Script do mentorado para C2:
 > "_____________________________________________ [pergunta central de desafio]"
@@ -75,15 +75,15 @@ Script do mentorado para C2:
 ---
 
 **C3 — Create (10-15 min da conversa)**
-Objectivo: ajudar o prospect a visualizar a solucao e o resultado desejado.
+Objetivo: ajudar o prospect a visualizar a solucao e o resultado desejado.
 
 Perguntas-guia:
-- "Como seria para ti se este problema estivesse resolvido?"
-- "O que mudaria no teu dia-a-dia, na tua receita, na tua confianca?"
-- "Ja viste alguem resolver este tipo de problema com sucesso? O que fizeram de diferente?"
+- "Como seria para voce se este problema estivesse resolvido?"
+- "O que mudaria no seu dia a dia, na sua receita, na sua confianca?"
+- "Voce ja viu alguem resolver este tipo de problema com sucesso? O que fizeram de diferente?"
 
 Depois: apresentar o framework e a oferta como o caminho para esse resultado.
-> "O que acabas de descrever e exactamente o que o [Nome do Framework] foi desenhado para resolver. Funciona assim: [overview de 2 minutos das fases]"
+> "O que voce acabou de descrever e exatamente o que o [Nome do Framework] foi desenhado para resolver. Funciona assim: [overview de 2 minutos das fases]"
 
 Script do mentorado para C3:
 > "_____________________________________________ [transicao para apresentacao da oferta]"
@@ -91,15 +91,15 @@ Script do mentorado para C3:
 ---
 
 **C4 — Close (5-10 min da conversa)**
-Objectivo: chegar a uma decisao clara — sim, nao ou timing alternativo.
+Objetivo: chegar a uma decisao clara — sim, nao ou timing alternativo.
 
 Perguntas-guia:
-- "Com base no que partilhaste, parece-te que faz sentido avancar?"
-- "O que precisarias de saber ou ver para tomar uma decisao?"
-- "Ha alguma razao que te impede de comecar agora?"
+- "Com base no que voce compartilhou, faz sentido avancarmos?"
+- "O que voce precisaria saber ou ver para tomar uma decisao?"
+- "Ha alguma razao que esta te impedindo de comecar agora?"
 
 Apresentar as opcoes de tier:
-> "Tenho 3 formas de trabalhar em conjunto. Deixa-me mostrar-te o que cada uma inclui."
+> "Tenho 3 formas de trabalharmos juntos. Deixa eu te mostrar o que cada uma inclui."
 
 Principio: close nao e pressao — e clareza. Uma decisao "nao agora" com razao especifica e melhor do que um "talvez" vago.
 
@@ -132,7 +132,7 @@ Debriefing (5 min):
 Logica do conteudo: cada peca de conteudo deve fazer uma de tres coisas:
 1. **Educar** — ensinar um principio do framework
 2. **Inspirar** — mostrar transformacao possivel (caso de sucesso, historia)
-3. **Activar** — chamar a accao especifica (conversa, DM, download)
+3. **Activar** — chamar a acao especifica (conversa, DM, download)
 
 Distribuicao recomendada: 60% educar / 30% inspirar / 10% activar
 
@@ -145,7 +145,7 @@ Distribuicao recomendada: 60% educar / 30% inspirar / 10% activar
 | 2 | Seg | Educar | Fase 1 do framework (o que e + porque importa) | Carrossel | Seguir para mais |
 | 2 | Qua | Educar | Erro mais comum que vejo | Post texto | Partilhar com quem precisa |
 | 2 | Sex | Activar | "Se queres [resultado], DM-me 'FRAMEWORK'" | Post curto | DM |
-| 3 | Seg | Inspirar | A minha historia (por que criei este metodo) | Post texto longo | Comentar a tua situacao |
+| 3 | Seg | Inspirar | A minha historia (por que criei este metodo) | Post texto longo | Comentar a sua situacao |
 | 3 | Qui | Educar | Principio 2 ou 3 do framework | Post ou carrossel | Guardar |
 | 4 | Seg | Educar | O que muda quando aplicas o framework | Post texto | Tag alguem |
 | 4 | Qua | Activar | Convite para conversa exploratoria | Post ou DM | Agendar call |
@@ -158,8 +158,8 @@ Preencher os temas especificos com o conteudo real do framework do mentorado.
 
 - **Script de enrollment conversation** nos 4Cs personalizado
 - **Calendario de conteudo** para primeiras 4 semanas (plataforma principal + temas)
-- Ficheiro: `Enrollment-Script-v1.md`
-- Ficheiro: `Content-Calendar-Semanas1-4.md`
+- Arquivo: `Enrollment-Script-v1.md`
+- Arquivo: `Content-Calendar-Semanas1-4.md`
 
 ---
 
@@ -181,7 +181,7 @@ Preencher os temas especificos com o conteudo real do framework do mentorado.
 **Armadilhas comuns:**
 - Mentorado que quer o script perfeito antes de usar — reforcar que o script melhora com a pratica, nao antes dela.
 - C2 (Challenge) que se torna numa sessao de coaching gratis — a conversa de enrollment nao e entrega de valor, e diagnostico. Diferenca crucial.
-- Close que evita fazer a pergunta de decisao directa por medo de rejeicao — reforcar: uma decisao negativa clara e melhor para ambas as partes do que ambiguidade.
+- Close que evita fazer a pergunta de decisao direta por medo de rejeicao — reforcar: uma decisao negativa clara e melhor para ambas as partes do que ambiguidade.
 - Calendario de conteudo demasiado ambicioso (publicar todos os dias) — comecar com 2-3 vezes por semana e consistencia ao longo do tempo.
 
 **Tips de facilitacao:**

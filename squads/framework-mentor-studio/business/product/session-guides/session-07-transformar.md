@@ -6,7 +6,7 @@
 
 ---
 
-## Objectivo da Sessao
+## Objetivo da Sessao
 
 Calcular o valor percebido da oferta usando a Value Equation de Alex Hormozi e construir um Offer Stack completo com core offer, bonus e garantia. No final da sessao, o mentorado tem clareza sobre o valor real que entrega e os componentes da oferta que vai levar ao mercado.
 
@@ -62,7 +62,7 @@ Pontuacao: quao poderoso e este resultado? (1-10) ___
 - Que prova social, casos de sucesso ou garantias aumentam esta crenca?
 - Qual e a objecao principal: "Isso funciona para outros, mas nao para mim porque ___"
 
-Pontuacao: quao alta e a crenca actual do cliente? (1-10) ___
+Pontuacao: quao alta e a crenca atual do cliente? (1-10) ___
 Como aumentar: _______________
 
 ---
@@ -128,7 +128,7 @@ A logica: a oferta nao e so o servico — e tudo o que o cliente recebe.
 - **Value Equation score** com analise dos 4 drivers
 - **Offer Stack documentado** com core offer + 3 bonus + garantia
 - **Value Proposition** em 1 frase: "Ajudo [quem] a [resultado] usando [mecanismo] em [tempo] mesmo que [objecao]"
-- Ficheiro: `Offer-Stack-v1.md`
+- Arquivo: `Offer-Stack-v1.md`
 
 ---
 
@@ -150,7 +150,7 @@ A logica: a oferta nao e so o servico — e tudo o que o cliente recebe.
 - Mentorado que acha que o valor e o seu tempo, nao o resultado do cliente — reorientar sempre para o resultado, nao para o input.
 
 **Tips de facilitacao:**
-- Usar os casos reais de clientes para calcular o ROI da oferta: "Se o teu cliente ganhou X euros com o teu trabalho, o teu preco e quanto % desse valor?"
+- Usar os casos reais de clientes para calcular o ROI da oferta: "Se o seu cliente ganhou X reais com o seu trabalho, o seu preco e quanto % desse valor?"
 - O Offer Stack em papel, visivel no ecra, funciona como ancora mental para a proxima sessao de pricing
 - Reforcar: "Bonus nao custam mais ao cliente — tornam a decisao de comprar mais facil"
-- A garantia e uma declaracao de confianca no proprio trabalho — mentorados hesitantes sobre garantia frequentemente tem ULP Tipo 3 activo
+- A garantia e uma declaracao de confianca no proprio trabalho — mentorados hesitantes sobre garantia frequentemente tem ULP Tipo 3 ativo

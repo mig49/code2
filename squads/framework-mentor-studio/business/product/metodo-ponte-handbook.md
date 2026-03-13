@@ -117,7 +117,7 @@ Ter pelo menos 3 conversas diagnosticas reais antes de terminar a mentoria. Nao 
 
 Para que a mentoria funcione, voce precisa:
 
-- **Presenca de 80%** — No minimo 10 das 12 sessoes. Se precisar remarcar, avise com 48 horas de antecedencia.
+- **Presenca de 80%** — No minimo 8 das 10 sessoes. Se precisar remarcar, avise com 48 horas de antecedencia.
 - **Deliverables em dia** — Cada fase tem um entregavel. Entregar antes da sessao seguinte e o que permite avancar. Sem entregavel, a sessao fica rasa.
 - **Resposta em ate 72 horas** — No canal de suporte, para perguntas rapidas e duvidas entre sessoes.
 - **Sem gaps de mais de 2 semanas** — A mentoria tem ritmo. Pausas longas quebram o momentum e custam caro em reconstrucao de contexto.

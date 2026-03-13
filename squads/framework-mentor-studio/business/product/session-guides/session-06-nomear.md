@@ -6,7 +6,7 @@
 
 ---
 
-## Objectivo da Sessao
+## Objetivo da Sessao
 
 Dar nome definitivo ao Signature Framework, preencher o Framework Canvas completo e criar uma representacao visual que possa ser usada imediatamente em apresentacoes, propostas e conteudo. No final desta sessao, o framework esta born — tem nome, estrutura, logica e visual.
 
@@ -26,9 +26,9 @@ Antes da sessao o mentorado deve:
 
 | Bloco | Duracao | Descricao |
 |-------|---------|-----------|
-| Check-in + revisao da lista de nomes | 10 min | Le os nomes em voz alta, primeiras reaccoes |
+| Check-in + revisao da lista de nomes | 10 min | Le os nomes em voz alta, primeiras reacoes |
 | Contexto: os 3 criterios de nomeacao | 5 min | Memoravel, ownavel, significativo |
-| Exercicio 1: Avaliacao e seleccao do nome | 20 min | Pontuar cada nome, seleccionar o vencedor |
+| Exercicio 1: Avaliacao e selecao do nome | 20 min | Pontuar cada nome, selecionar o vencedor |
 | Exercicio 2: Framework Canvas completo | 20 min | Preencher todos os campos |
 | Exercicio 3: Representacao visual | 20 min | Criar diagrama/visual da estrutura |
 | Celebracao e encerramento | 5 min | O framework existe — reconhecer o momento |
@@ -40,7 +40,7 @@ Antes da sessao o mentorado deve:
 
 ### Exercicio 1 — Avaliacao de Nomes com 3 Criterios
 
-Para cada candidato da lista de 10, pontuar de 1-5 em cada criterio:
+Para cada candidato da lista de 10, pontuar de 1 a 5 em cada criterio:
 
 | Criterio | Definicao | Perguntas-guia |
 |----------|-----------|----------------|
@@ -122,7 +122,7 @@ Elementos do visual:
 - Nome oficial e justificacao da escolha
 - Framework Canvas preenchido
 - Representacao visual (esboço ou digital)
-- Ficheiro: `Signature-Framework-v1.md`
+- Arquivo: `Signature-Framework-v1.md`
 - Imagem: `Framework-Visual-v1.png` (ou foto do esboço)
 
 ---

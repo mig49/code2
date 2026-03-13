@@ -6,7 +6,7 @@
 
 ---
 
-## Objectivo da Sessao
+## Objetivo da Sessao
 
 Definir a estrutura de 3 tiers de preco com diferenciacao clara e criar um template de proposta consultiva que o mentorado possa usar imediatamente em reunioes com potenciais clientes. No final da sessao, o mentorado sabe quanto cobra, porque cobra esse valor e como o apresenta por escrito de forma profissional.
 
@@ -53,7 +53,7 @@ A logica dos 3 tiers: o tier do meio e o que a maioria escolhe — desenhar o Be
 |----------|--------------|---------------------|----------------|
 | Preco | ___ | ___ | ___ |
 | Sessoes / formato | ___ | ___ | ___ |
-| Tempo de accesso | ___ | ___ | ___ |
+| Tempo de acesso | ___ | ___ | ___ |
 | Suporte entre sessoes | ___ | ___ | ___ |
 | Recursos incluidos | ___ | ___ | ___ |
 | Bonus incluidos | ___ | ___ | ___ |
@@ -74,19 +74,19 @@ A proposta nao e um orcamento — e um documento que demonstra que o mentor ente
 
 ---
 
-**Secao 1 — Situacao Actual (0.25 paginas)**
-> O que foi compreendido sobre a situacao actual do cliente.
+**Secao 1 — Situacao Atual (0.25 paginas)**
+> O que foi compreendido sobre a situacao atual do cliente.
 - Resumir o problema com as palavras do cliente
-- Mostrar que ouviu — nao assumir, reflectir
+- Mostrar que ouviu — nao assumir, refletir
 - Tom: "Com base na nossa conversa, compreendo que..."
 
 ---
 
-**Secao 2 — Objectivos (0.25 paginas)**
+**Secao 2 — Objetivos (0.25 paginas)**
 > O que o cliente quer atingir.
-- Objectivos quantificaveis sempre que possivel
-- Separar objectivos de curto prazo dos de medio prazo
-- Tom: "Os objectivos que identificamos juntos sao..."
+- Objetivos quantificaveis sempre que possivel
+- Separar objetivos de curto prazo dos de medio prazo
+- Tom: "Os objetivos que identificamos juntos sao..."
 
 ---
 
@@ -102,7 +102,7 @@ A proposta nao e um orcamento — e um documento que demonstra que o mentor ente
 > O que vale o resultado para o cliente.
 - Quantificar o ROI esperado sempre que possivel
 - Se nao for quantificavel, qualificar o impacto ("reputacao como lider de referencia")
-- Tom: "Estimamos que ao atingir estes objectivos, [cliente] pode esperar..."
+- Tom: "Estimamos que ao atingir estes objetivos, [cliente] pode esperar..."
 
 ---
 
@@ -140,8 +140,8 @@ Redigir secao a secao na sessao, usando um cliente hipotetico ou real do mentora
 
 - **Oferta completa em 3 tiers** documentada em tabela
 - **Template de proposta consultiva** em 7 secoes (2.5 paginas)
-- Ficheiro tiers: `Pricing-Tiers-v1.md`
-- Ficheiro proposta: `Proposta-Template-v1.md`
+- Arquivo tiers: `Pricing-Tiers-v1.md`
+- Arquivo proposta: `Proposta-Template-v1.md`
 
 ---
 

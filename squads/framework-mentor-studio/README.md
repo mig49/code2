@@ -77,7 +77,7 @@ checklists/                   # Qualidade de framework (22) + oferta (25)
 |---------|-----------|
 | [`product/metodo-ponte-handbook.md`](business/product/metodo-ponte-handbook.md) | Handbook do mentorado (client-facing) |
 | [`product/client-workbook.md`](business/product/client-workbook.md) | 10 exercicios/templates para o mentorado |
-| [`product/session-guides/`](business/product/session-guides/) | 10 guias de sessao (2 por fase PONTE) |
+| `product/session-guides/` | 10 guias de sessao (2 por fase PONTE) — ver tabela abaixo |
 
 **Session Guides:**
 

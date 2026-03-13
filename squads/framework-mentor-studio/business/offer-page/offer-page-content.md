@@ -41,7 +41,7 @@ O Metodo PONTE foi desenvolvido para resolver exatamente esse problema — de fo
 Sao 5 fases que levam voce do ponto A (gestor com expertise valiosa mas presa) ao ponto B (mentor com posicionamento claro, oferta estruturada e primeiros clientes):
 
 **P — Posicionar**
-Identificamos onde voce esta agora e para onde quer ir. Diagnostic° profundo de expertise, mercado e momento de vida.
+Identificamos onde voce esta agora e para onde quer ir. Diagnostico profundo de expertise, mercado e momento de vida.
 
 **O — Organizar**
 Mapeamos e estruturamos o conhecimento que voce acumulou. Transformamos experiencias difusas em um inventario de valor claro.

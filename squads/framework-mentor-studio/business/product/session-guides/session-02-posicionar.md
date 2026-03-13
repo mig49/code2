@@ -6,9 +6,9 @@
 
 ---
 
-## Objectivo da Sessao
+## Objetivo da Sessao
 
-Identificar qual dos 4 tipos de Upper Limit Problem (ULP) de Gay Hendricks está activo na vida do mentorado e criar uma gap analysis estruturada comparando a situacao actual com a visao desejada em 5 dimensoes criticas. O resultado e o Diagnosis Report completo — a base de todo o trabalho seguinte.
+Identificar qual dos 4 tipos de Upper Limit Problem (ULP) de Gay Hendricks está ativo na vida do mentorado e criar uma gap analysis estruturada comparando a situacao atual com a visao desejada em 5 dimensoes criticas. O resultado e o Diagnosis Report completo — a base de todo o trabalho seguinte.
 
 ---
 
@@ -38,7 +38,7 @@ Antes da sessao o mentorado deve:
 
 ## Exercicios ao Vivo
 
-### Exercicio 1 — Diagnostico do Tipo de ULP Activo
+### Exercicio 1 — Diagnostico do Tipo de ULP Ativo
 
 Os 4 tipos de Upper Limit Problem (Hendricks, "The Big Leap"):
 
@@ -69,9 +69,9 @@ Para cada dimensao, o mentorado responde: "Onde estou hoje?" e "Onde quero estar
 | Dimensao | AS-IS (hoje) | TO-BE (12-24 meses) | Gap |
 |----------|-------------|---------------------|-----|
 | **Posicionamento** | Como me vejo profissionalmente | Titulo/posicao desejada | ___ |
-| **Receita** | Receita mensal/anual actual | Receita alvo | ___ |
-| **Impacto** | Quantas pessoas afecta hoje | Escala de impacto desejada | ___ |
-| **Estilo de vida** | Horas, modelo de trabalho actual | Modelo desejado | ___ |
+| **Receita** | Receita mensal/anual atual | Receita alvo | ___ |
+| **Impacto** | Quantas pessoas afeta hoje | Escala de impacto desejada | ___ |
+| **Estilo de vida** | Horas, modelo de trabalho atual | Modelo desejado | ___ |
 | **Reputacao** | Como sou conhecido hoje | Como quero ser reconhecido | ___ |
 
 Para cada gap, identificar: qual e a causa raiz mais provavel? (conhecimento, relacoes, ferramentas, posicionamento, crencas)
@@ -85,24 +85,24 @@ Para cada gap, identificar: qual e a causa raiz mais provavel? (conhecimento, re
 - UA Statement versao aprovada pelo mentorado
 - Tipo de ULP dominante + evidencias concretas
 - Gap Analysis 5 dimensoes preenchida
-- Ficheiro: `Diagnosis-Report-v1.md`
+- Arquivo: `Diagnosis-Report-v1.md`
 
 ---
 
 ## Homework para a Proxima Sessao
 
 1. Reler o Diagnosis Report com distancia critica — o que ressoa? O que surpreende?
-2. Preparar um **Brain Dump** inicial: 30 minutos a escrever tudo o que sabe sobre a sua area de especializacao sem filtro (nao polir, nao organizar — apenas escrever)
-3. Anotar 3-5 "historias de sucesso" de clientes/projectos — momentos em que a intervencao foi decisiva
+2. Preparar um **Brain Dump** inicial: 30 minutos escrevendo tudo o que sabe sobre a sua area de especializacao sem filtro (nao polir, nao organizar — apenas escrever)
+3. Anotar 3-5 "historias de sucesso" de clientes/projetos — momentos em que a intervencao foi decisiva
 
 ---
 
 ## Notas para o Mentor
 
 **Armadilhas comuns:**
-- O Exercicio 1 pode activar emocao — se o mentorado ficar tocado, pausar, validar a emocao antes de continuar. Nao e terapia, mas e humanamente necessario reconhecer.
+- O Exercicio 1 pode ativar emocao — se o mentorado ficar tocado, pausar, validar a emocao antes de continuar. Nao e terapia, mas e humanamente necessario reconhecer.
 - Mentorado pode resistir ao tipo de ULP ("nao me identifico com nenhum") — nao forcou. Deixar como hipotese e dizer: "vamos ver se esta hipotese se confirma ao longo das sessoes."
-- Na Gap Analysis, cuidado com respostas vagas no TO-BE ("quero ser reconhecido"). Empurrar para especificidade: "Reconhecido por quem? Em que contexto? O que diria essa pessoa sobre ti?"
+- Na Gap Analysis, cuidado com respostas vagas no TO-BE ("quero ser reconhecido"). Empurrar para especificidade: "Reconhecido por quem? Em que contexto? O que diria essa pessoa sobre voce?"
 - Garantir que o Diagnosis Report fica documentado ainda durante a sessao — nao deixar para depois.
 
 **Tips de facilitacao:**

@@ -6,7 +6,7 @@
 
 ---
 
-## Objectivo da Sessao
+## Objetivo da Sessao
 
 Finalizar o plano de lancamento com acoes concretas para os proximos 30 dias, definir o que delegar imediatamente (IA, assistente ou eliminar) para libertar tempo para a Zona de Genialidade e fazer uma retrospectiva honesta do programa — o que mudou, o que surpreendeu, quais sao os proximos passos apos o programa.
 
@@ -18,7 +18,7 @@ Antes da sessao o mentorado deve:
 - Ter a tabela GATE preenchida com 10-15 prospects
 - Ter os primeiros 5 contactos rascunhados
 - Ter o primeiro peco de conteudo criado (nao publicado)
-- Ter reflectido sobre o que quer delegar e o que quer manter pessoal
+- Ter refletido sobre o que quer delegar e o que quer manter pessoal
 
 ---
 
@@ -41,7 +41,7 @@ Antes da sessao o mentorado deve:
 
 **Rever a tabela GATE completa:**
 
-| Nome | Empresa/Contexto | G (0-3) | A (0-3) | T (0-3) | E (0-3) | Score Total | Proxima Accao |
+| Nome | Empresa/Contexto | G (0-3) | A (0-3) | T (0-3) | E (0-3) | Score Total | Proxima Acao |
 |------|-----------------|---------|---------|---------|---------|-------------|--------------|
 | ... | ... | | | | | | |
 
@@ -57,7 +57,7 @@ Score ideal para primeiro contacto: >= 8 (de 12)
 
 Para cada um dos 5 prospects prioritarios, definir:
 
-| Prospect | Canal de contacto | Mensagem de abertura | Objectivo do contacto | Data alvo |
+| Prospect | Canal de contacto | Mensagem de abertura | Objetivo do contacto | Data alvo |
 |----------|-----------------|---------------------|----------------------|-----------|
 | 1 | | | | Esta semana |
 | 2 | | | | Esta semana |
@@ -72,7 +72,7 @@ Rascunhar ao vivo a mensagem para o Prospect 1 — deve:
 - Nao mencionar preco nem servico ainda
 
 **Metricas do pipeline de lancamento:**
-- Objectivo: 5 conversas de enrollment nas proximas 3 semanas
+- Objetivo: 5 conversas de enrollment nas proximas 3 semanas
 - Taxa de conversao esperada de conversa para cliente: 20-40%
 - Projectao: 1-2 clientes nas primeiras 3-4 semanas
 
@@ -100,16 +100,16 @@ Principio: para operar na Zona de Genialidade, e necessario mover tarefas das ou
 - Sessoes com clientes (core do negocio)
 - Enrollment conversations (relacao e confianca)
 - Decisoes estrategicas do framework
-- Relacoes-chave com parceiros e referenciadores
+- Relacoes-chave com parceiros e indicadores
 - Criacao da voz e perspectiva do conteudo (mesmo que IA rascunhe)
 
 **Preencher o mapa:**
 
-| Tarefa actual | Zona | Delegar a | Impacto em Genialidade | Prioridade |
+| Tarefa atual | Zona | Delegar a | Impacto em Genialidade | Prioridade |
 |--------------|------|-----------|----------------------|------------|
 | ... | Excelencia/Competencia | IA / Assistente | Alto/Medio/Baixo | 1-3 semanas |
 
-Seleccionar 3 tarefas para delegar nos proximos 15 dias — especificas e accionaveis.
+Selecionar 3 tarefas para delegar nos proximos 15 dias — especificas e acionaveis.
 
 ### Exercicio 3 — Retrospectiva Estruturada do Programa
 
@@ -133,9 +133,9 @@ Registar as surpresas — sao dados importantes sobre o que o programa entrega q
 > "Com o que tens agora — framework, oferta, script, pipeline — quais sao as 3 acoes mais importantes nos proximos 30 dias?"
 
 Ajudar a definir 3 prioridades hierarquizadas:
-- Prioridade 1: [accionavel esta semana]
-- Prioridade 2: [accionavel nas proximas 2-3 semanas]
-- Prioridade 3: [accionavel no proximo mes]
+- Prioridade 1: [acionavel esta semana]
+- Prioridade 2: [acionavel nas proximas 2-3 semanas]
+- Prioridade 3: [acionavel no proximo mes]
 
 ---
 
@@ -154,7 +154,7 @@ Antes de fechar, o mentor entrega formalmente ao mentorado o conjunto de todos o
 9. Pipeline de Lancamento (lista GATE + 5 convites)
 10. Mapa de Delegacao
 
-Dizer em voz alta: "[Nome], em 10 sessoes construiste algo que a maioria dos profissionais da tua area nunca vai ter: um sistema completo para transformar o teu conhecimento em valor claro, comunicavel e vendavel. Isso e teu."
+Dizer em voz alta: "[Nome], em 10 sessoes voce construiu algo que a maioria dos profissionais da sua area nunca vai ter: um sistema completo para transformar o seu conhecimento em valor claro, comunicavel e vendavel. Isso e seu."
 
 ---
 
@@ -164,13 +164,13 @@ Dizer em voz alta: "[Nome], em 10 sessoes construiste algo que a maioria dos pro
 - **Mapa de delegacao** com 3 tarefas a delegar nos proximos 15 dias
 - **Retrospectiva documentada** (o que mudou, o que surpreendeu, proximos passos)
 - **Pasta completa** com todos os 10 documentos do programa
-- Ficheiro: `Launch-Plan-v1.md`
-- Ficheiro: `Delegation-Map-v1.md`
-- Ficheiro: `Retrospectiva-Programa.md`
+- Arquivo: `Launch-Plan-v1.md`
+- Arquivo: `Delegation-Map-v1.md`
+- Arquivo: `Retrospectiva-Programa.md`
 
 ---
 
-## Homework — A Accao Mais Importante
+## Homework — A Acao Mais Importante
 
 **Enviar os primeiros 5 convites esta semana.**
 
@@ -183,7 +183,7 @@ A unica forma de saber se o framework funciona no mercado e levar ao mercado.
 ## Notas para o Mentor
 
 **Armadilhas comuns:**
-- Mentorado que quer "ainda nao esta pronto para lancar" — o ULP em forma de procrastinacao. Redirigir: "Quando estarias pronto? O que falta exactamente? O que impede o primeiro convite hoje?"
+- Mentorado que quer "ainda nao esta pronto para lancar" — o ULP em forma de procrastinacao. Redirigir: "Quando voce estaria pronto? O que falta exatamente? O que impede o primeiro convite hoje?"
 - Delegacao que nao acontece porque "e mais rapido fazer eu" — o custo de oportunidade de continuar na Zona de Excelencia e invisivel no curto prazo mas devastador no longo.
 - Retrospectiva superficial ("foi muito bom, aprendi muito") — empurrar para especificidade. "O que especificamente e diferente? Da-me um exemplo concreto."
 - Mentorado que sai da sessao com muitos proximos passos — simplificar para 3 acoes. Mais do que 3 paralisa.
@@ -191,6 +191,6 @@ A unica forma de saber se o framework funciona no mercado e levar ao mercado.
 **Tips de facilitacao:**
 - A entrega simbolica dos documentos nao e opcional — e um momento de reconhecimento que ancora o trabalho feito
 - Pedir ao mentorado para descrever o programa em 3 palavras — as respostas dao feedback qualitativo valioso
-- Perguntar: "Quem na tua rede se beneficiaria de um programa como este?" — natural e sem pressao, abre conversas de referenciacao
+- Perguntar: "Quem na sua rede se beneficiaria de um programa como este?" — natural e sem pressao, abre conversas de indicacao
 - Manter contacto apos o programa (email aos 30 dias): "Como correu o lancamento? Quantas conversas?" — o acompanhamento pos-programa e diferenciador
 - O sucesso do programa mede-se nao pelo que foi produzido nas sessoes, mas pelos clientes que o mentorado conquista depois. Reforcar: o trabalho real comeca agora.

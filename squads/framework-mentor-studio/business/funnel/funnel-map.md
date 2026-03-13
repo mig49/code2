@@ -71,7 +71,7 @@ A pessoa engaja com o conteudo (comenta, curte repetidamente), envia DM espontan
 Convite para uma conversa diagnostica gratuita de 30 minutos — sem pitch, sem pressao, sem agenda oculta.
 
 **Mensagem de convite (tom):**
-> "Vi que voce comentou em [post X]. Parece que estamos a pensar em coisas parecidas. Se fizer sentido, adoraria ter uma conversa de 30 minutos para entender melhor onde voce esta e o que esta a tentar construir."
+> "Vi que voce comentou em [post X]. Parece que estamos pensando em coisas parecidas. Se fizer sentido, adoraria ter uma conversa de 30 minutos para entender melhor onde voce esta e o que esta tentando construir."
 
 **Lead Magnet (futuro):**
 "Mini Diagnostico: Em que Zona voce esta?"
@@ -95,21 +95,21 @@ A pessoa agenda a conversa diagnostica.
 
 ```
 CONNECT (5 min)
-"O que te trouxe ate aqui? O que esta a acontecer na tua vida profissional?"
+"O que te trouxe ate aqui? O que esta acontecendo na sua vida profissional?"
 Objetivo: criar espaco seguro, ouvir sem julgamento.
 
 CHALLENGE (10 min)
-"O que seria diferente se conseguisses [objetivo que partilhou]?"
-"O que te impede de ja estar a fazer isso?"
+"O que seria diferente se conseguisse [objetivo que compartilhou]?"
+"O que impede voce de ja estar fazendo isso?"
 Objetivo: aprofundar o problema real, nao o sintoma.
 
 CREATE (10 min)
-"Imagina que resolves isso nos proximos 90 dias. Como seria?"
+"Imagina que resolve isso nos proximos 90 dias. Como seria?"
 Dar 1 insight genuino que demonstre expertise atraves do diagnostico.
 Objetivo: abrir possibilidade, nao vender solucao.
 
 CLOSE (5 min)
-SE houver fit: "Tenho um programa que resolve exatamente isso. Posso enviar-te mais detalhes?"
+SE houver fit: "Tenho um programa que resolve exatamente isso. Posso enviar mais detalhes?"
 SE nao houver fit: redirecionar honestamente para outro recurso/caminho.
 Objetivo: decisao clara — proposta ou redirectionamento.
 ```
@@ -130,7 +130,7 @@ Proposta personalizada enviada dentro de 24 horas se houver fit claro.
 ## Estagio 4: ACAO
 
 **Proposta:**
-- Formato: documento de 2,5 paginas, estilo consultivo (nao commercial)
+- Formato: documento de 2,5 paginas, estilo consultivo (nao comercial)
 - Estrutura: contexto da conversa > problema identificado > solucao proposta > investimento > proximos passos
 - Tom: como uma carta de um profissional para outro, nao uma landing page
 
@@ -138,11 +138,11 @@ Proposta personalizada enviada dentro de 24 horas se houver fit claro.
 
 | Momento | Acao |
 |---------|------|
-| 24h | Confirmacao de envio + "tens alguma duvida?" |
-| 48h | Follow-up leve: "gostava de saber se a proposta faz sentido" |
+| 24h | Confirmacao de envio + "tem alguma duvida?" |
+| 48h | Follow-up leve: "gostaria de saber se a proposta faz sentido" |
 | 7d | Insight adicional relevante ao tema discutido |
-| 14d | "Respeito totalmente o teu tempo. A proposta continua valida." |
-| 30d | "Estou a abrir vagas para o proximo ciclo. Se fizer sentido, adorava retomar a conversa." |
+| 14d | "Respeito totalmente o seu tempo. A proposta continua valida." |
+| 30d | "Estou abrindo vagas para o proximo ciclo. Se fizer sentido, adoraria retomar a conversa." |
 
 **Onboarding:**
 Checklist de boas-vindas ativado automaticamente apos confirmacao de pagamento.

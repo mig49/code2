@@ -61,7 +61,7 @@ d) Honestamente, nao sei
 
 a) Nunca tentei — nao me vejo como alguem que ensina
 b) Ja tentei, mas foi dificil de transmitir
-c) Funciona, mas ainda e improvvisado — sem metodo claro
+c) Funciona, mas ainda e improvisado — sem metodo claro
 d) Tenho um jeito de ensinar que funciona — ja virou sistema
 
 ---

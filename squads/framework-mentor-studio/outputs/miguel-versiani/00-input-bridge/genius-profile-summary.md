@@ -106,7 +106,7 @@ Cria valor através de pessoas e relações. Naturalmente constrói sistemas que
 |---------|-------|
 | Value Equation Score (inicial) | 4,4 |
 | Value Equation Score (refinado / baseline de lançamento) | 6,0 |
-| Potencial de receita estimado | R$ 9.000 – R$ 25.000/mês |
+| Potencial de receita estimado | R$ 9.000 – R$ 22.500/mês |
 | Match com mentoria premium | 87% |
 
 ---

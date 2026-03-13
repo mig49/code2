@@ -97,7 +97,7 @@ Veredicto: **CONFIRMADO**
 
 ### Impacto no Negócio
 
-**Teto de precificação:** O ULP Tipo 4 cria um teto psicológico que impede a migração para o segmento de mentoria premium (R$ 9.000–25.000/mês), mesmo quando a entrega justifica esse patamar.
+**Teto de precificação:** O ULP Tipo 4 cria um teto psicológico que impede a migração para o segmento de mentoria premium (R$ 9.000–22.500/mês), mesmo quando a entrega justifica esse patamar.
 
 **Teto de visibilidade:** Limita a consistência e a assertividade da presença pública no LinkedIn e em outros canais — reduzindo o alcance orgânico justamente quando o momento exige expansão.
 
@@ -112,7 +112,7 @@ Veredicto: **CONFIRMADO**
 | Dimensão | Estado Atual | Estado Desejado (12 meses) | Gap |
 |----------|-------------|---------------------------|-----|
 | Tempo em Genialidade | 25% | 60% | +35pp |
-| Precificação (mentoria) | Abaixo do mercado premium | R$ 9.000–25.000/mês | Migração de tier |
+| Precificação (mentoria) | Abaixo do mercado premium | R$ 9.000–22.500/mês | Migração de tier |
 | Value Equation Score | 6,0 (baseline) | 8,0+ | +2,0 pontos |
 | Presença pública | Irregular / institucional | Consistente / autoral | Cadência + voz |
 | IP nomeado | Implícito / informal | Framework nomeado e publicado | Fase N do PONTE |
@@ -171,7 +171,7 @@ A Fase P produziu diagnóstico suficiente e consistente para embasar as fases se
 
 ### Prioridades para a Fase O (Organizar)
 
-1. **Definir oferta-âncora:** Uma oferta de mentoria premium claramente escoped — quem, o quê, por quanto, por quanto tempo
+1. **Definir oferta-âncora:** Uma oferta de mentoria premium claramente delimitada — quem, o quê, por quanto, por quanto tempo
 2. **Nomear o framework:** Transformar o Unique Ability em IP com nome, estrutura e linguagem proprietária (alimenta a Fase N)
 3. **Mapear o sistema de entrega:** Como a mentoria acontece operacionalmente — para que possa ser delegada, documentada e escalada
 4. **Estabelecer baseline de presença:** Cadência mínima viável de conteúdo público que seja sustentável sem pressionar o ULP

@@ -8,7 +8,7 @@ Estas sequencias seguem um principio central: **respeito pelo tempo e pelo proce
 
 Nao ha urgencia artificial. Nao ha escassez fabricada. Nao ha pressao. O que existe e presenca genuina — mostrar que a conversa importou, que o interesse e real, e que a porta continua aberta.
 
-O tom em todas as mensagens deve ser o de um profissional a escrever para outro profissional que respeita.
+O tom em todas as mensagens deve ser o de um profissional escrevendo para outro profissional que respeita.
 
 ---
 
@@ -26,9 +26,9 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 >
 > Foi otimo conversar hoje.
 >
-> Fiquei a pensar no que partilhaste sobre [tema especifico da conversa — ex: "a dificuldade de explicar o teu metodo de forma que as pessoas consigam replicar"]. Isso e um sinal claro de que ha algo valioso a extrair — o problema nao e o conhecimento, e a estrutura.
+> Fiquei pensando no que voce compartilhou sobre [tema especifico da conversa — ex: "a dificuldade de explicar o seu metodo de forma que as pessoas consigam replicar"]. Isso e um sinal claro de que ha algo valioso a extrair — o problema nao e o conhecimento, e a estrutura.
 >
-> Toma o tempo que precisas. Estou aqui quando quiseres retomar.
+> Tome o tempo que precisar. Estou aqui quando quiser retomar.
 >
 > [Assinatura]
 
@@ -38,15 +38,15 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 **Mensagem 2 — 48 horas apos a conversa**
 
-*(Partilhar artigo, post ou recurso diretamente relevante ao tema discutido — sem mensagem de venda)*
+*(Compartilhar artigo, post ou recurso diretamente relevante ao tema discutido — sem mensagem de venda)*
 
 > Ola [Nome],
 >
-> Escrevi recentemente sobre [tema relacionado com o que discutimos]. Nao sei se ja leste, mas pareceu-me relevante dado o que partilhaste.
+> Escrevi recentemente sobre [tema relacionado com o que discutimos]. Nao sei se ja leu, mas pareceu-me relevante dado o que voce compartilhou.
 >
 > [Link para o artigo/post]
 >
-> Sem pressao nenhuma — partilho porque me parece util, nao para te convencer de nada.
+> Sem pressao nenhuma — compartilho porque me parece util, nao para convencer voce de nada.
 >
 > [Assinatura]
 
@@ -58,25 +58,25 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 > Ola [Nome],
 >
-> Tenho refletido sobre o que partilhaste na nossa conversa.
+> Tenho refletido sobre o que voce compartilhou na nossa conversa.
 >
 > Surgiu alguma coisa nova entretanto? As vezes uma semana traz clareza que o momento nao traz.
 >
 > [Assinatura]
 
-*Nota de producao: Mensagem curta intencional. Nao repete o pitch. Abre espaco para a pessoa partilhar se algo mudou — internamente ou externamente.*
+*Nota de producao: Mensagem curta intencional. Nao repete o pitch. Abre espaco para a pessoa compartilhar se algo mudou — internamente ou externamente.*
 
 ---
 
 **Mensagem 4 — 14 dias apos a conversa**
 
-*(Partilhar um depoimento ou caso de estudo de alguem com um perfil semelhante ao prospect — sem contextualizar explicitamente como "prova social")*
+*(Compartilhar um depoimento ou caso de estudo de alguem com um perfil semelhante ao prospect — sem contextualizar explicitamente como "prova social")*
 
 > Ola [Nome],
 >
-> Um dos profissionais com quem trabalhei recentemente tinha um desafio parecido com o que descreveste — [descricao breve e honesta do contexto, sem exageros]. Pedi-lhe que partilhasse a sua experiencia, que podes ver aqui: [link ou texto breve].
+> Um dos profissionais com quem trabalhei recentemente tinha um desafio parecido com o que voce descreveu — [descricao breve e honesta do contexto, sem exageros]. Pedi que compartilhasse a sua experiencia, que voce pode ver aqui: [link ou texto breve].
 >
-> Partilho porque me pareceu relevante, nao para te pressionar.
+> Compartilho porque me pareceu relevante, nao para pressionar voce.
 >
 > [Assinatura]
 
@@ -86,13 +86,13 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 > Ola [Nome],
 >
-> Estou a abrir vagas para o proximo ciclo do Acelerador PONTE e lembrei-me de ti.
+> Estou abrindo vagas para o proximo ciclo do Acelerador PONTE e lembrei de voce.
 >
-> Se fizer sentido retomar a conversa, adorava. Se o momento nao for este, sem problema — fico contente por termos tido a oportunidade de conversar de qualquer forma.
+> Se fizer sentido retomar a conversa, adoraria. Se o momento nao for este, sem problema — fico contente por termos tido a oportunidade de conversar de qualquer forma.
 >
 > [Assinatura]
 
-*Nota de producao: Esta e a ultima mensagem da sequencia. Apos esta, a comunicacao passa a ser apenas via conteudo organico — sem follow-up direto adicional, a menos que a pessoa retome contacto.*
+*Nota de producao: Esta e a ultima mensagem da sequencia. Apos esta, a comunicacao passa a ser apenas via conteudo organico — sem follow-up direto adicional, a menos que a pessoa retome contato.*
 
 ---
 
@@ -108,7 +108,7 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 >
 > Enviei a proposta de colaboracao hoje [ou ontem]. Queria confirmar que chegou bem.
 >
-> Se tiveres alguma duvida sobre qualquer ponto, estou disponivel para responder — por escrito ou numa chamada rapida, como preferires.
+> Se tiver alguma duvida sobre qualquer ponto, estou disponivel para responder — por escrito ou numa chamada rapida, como preferir.
 >
 > [Assinatura]
 
@@ -118,9 +118,9 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 > Ola [Nome],
 >
-> Gostava de saber se a proposta faz sentido para ti neste momento — ou se ha algum ponto que precisa de ajuste ou clarificacao.
+> Gostaria de saber se a proposta faz sentido para voce neste momento — ou se ha algum ponto que precisa de ajuste ou clarificacao.
 >
-> Nao ha resposta errada. Se algo nao estiver alinhado com o que precisas, prefiro saber para poder adaptar ou redirecionar.
+> Nao ha resposta errada. Se algo nao estiver alinhado com o que voce precisa, prefiro saber para poder adaptar ou redirecionar.
 >
 > [Assinatura]
 
@@ -128,19 +128,19 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 **Mensagem 3 — 7 dias apos envio da proposta**
 
-*(Partilhar um insight adicional relevante — sem mencionar a proposta diretamente)*
+*(Compartilhar um insight adicional relevante — sem mencionar a proposta diretamente)*
 
 > Ola [Nome],
 >
-> Estava a pensar em [tema especifico da nossa conversa] e ocorreu-me algo que nao partilhei na altura.
+> Estava pensando em [tema especifico da nossa conversa] e ocorreu-me algo que nao compartilhei na epoca.
 >
-> [Insight genuino em 2-3 frases — algo que acrescenta valor independentemente de a pessoa avançar ou nao com o programa]
+> [Insight genuino em 2-3 frases — algo que acrescenta valor independentemente de a pessoa avancar ou nao com o programa]
 >
-> Partilho porque me pareceu util. Sem mais nada.
+> Compartilho porque me pareceu util. Sem mais nada.
 >
 > [Assinatura]
 
-*Nota de producao: Este insight tem de ser genuino. Se nao houver nada relevante a acrescentar, omite esta mensagem — uma mensagem vazia de conteudo faz mais mal do que bem.*
+*Nota de producao: Este insight tem de ser genuino. Se nao houver nada relevante a acrescentar, omita esta mensagem — uma mensagem vazia de conteudo faz mais mal do que bem.*
 
 ---
 
@@ -148,13 +148,13 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 > Ola [Nome],
 >
-> Respeito totalmente o teu tempo e o teu processo de decisao.
+> Respeito totalmente o seu tempo e o seu processo de decisao.
 >
-> A proposta continua valida. Quando quiseres, estou aqui.
+> A proposta continua valida. Quando quiser, estou aqui.
 >
 > [Assinatura]
 
-*Nota de producao: Esta e a ultima mensagem desta sequencia. Apos esta, sem mais contacto direto sobre a proposta — a menos que a pessoa retome.*
+*Nota de producao: Esta e a ultima mensagem desta sequencia. Apos esta, sem mais contato direto sobre a proposta — a menos que a pessoa retome.*
 
 ---
 
@@ -170,11 +170,11 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 > Ola [Nome],
 >
-> Foi otimo conversar. O que partilhaste sobre [elemento especifico da conversa] ficou comigo.
+> Foi otimo conversar. O que voce compartilhou sobre [elemento especifico da conversa] ficou comigo.
 >
-> Vou preparar uma proposta personalizada com base no que discutimos e envio-te nas proximas 24 horas.
+> Vou preparar uma proposta personalizada com base no que discutimos e envio para voce nas proximas 24 horas.
 >
-> Qualquer coisa que surja entretanto, podes escrever diretamente aqui.
+> Qualquer coisa que surja entretanto, pode escrever diretamente aqui.
 >
 > [Assinatura]
 
@@ -190,9 +190,9 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 >
 > [Ligacao ou documento com a proposta]
 >
-> Estruturei-a em torno do que identificaste como o teu principal desafio — [referencia especifica]. O objetivo e que, ao leres, reconhecas a tua situacao e vejas um caminho claro.
+> Estruturei-a em torno do que voce identificou como o seu principal desafio — [referencia especifica]. O objetivo e que, ao ler, reconheca a sua situacao e veja um caminho claro.
 >
-> Se tiveres alguma duvida, ou se alguma parte nao fizer sentido, diz-me — estou disponivel para uma chamada rapida de 15 minutos se for mais facil.
+> Se tiver alguma duvida, ou se alguma parte nao fizer sentido, me diga — estou disponivel para uma chamada rapida de 15 minutos se for mais facil.
 >
 > [Assinatura]
 
@@ -204,7 +204,7 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 > Ola [Nome],
 >
-> So a verificar se tiveste oportunidade de ver a proposta e se ha alguma duvida que possa esclarecer.
+> So verificando se voce teve oportunidade de ver a proposta e se ha alguma duvida que possa esclarecer.
 >
 > [Assinatura]
 
@@ -216,7 +216,7 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 > Ola [Nome],
 >
-> Sei que o dia-a-dia vai engolindo tudo. So a deixar uma nota para dizer que a proposta continua aberta e que estou aqui quando fizeres sentido retomar.
+> Sei que o dia-a-dia vai engolindo tudo. So deixando uma nota para dizer que a proposta continua aberta e que estou aqui quando fizer sentido retomar.
 >
 > [Assinatura]
 
@@ -228,7 +228,7 @@ Assunto: *(resposta ao mesmo email / DM — sem assunto novo)*
 
 **O que fazer:**
 - Referenciar algo especifico da conversa em cada mensagem
-- Escrever como se estivesses a continuar uma conversa, nao a iniciar um pitch
+- Escrever como se estivesse continuando uma conversa, nao iniciando um pitch
 - Dar valor genuino (insight, artigo, recurso) antes de qualquer pedido
 - Ser breve — 3-5 frases e suficiente na maioria dos casos
 
